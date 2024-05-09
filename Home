@@ -4,7 +4,7 @@
 	<head>
 		<meta charset=“UTF-8”>	
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Simple Website</title>
+  <title>Pawright</title>
   <style>
     body {
       background-color: #f0f0f0; /* Grey background */
@@ -49,19 +49,20 @@
 </head>
 <body>
   <header>
-    <h1>Welcome to Simple Website</h1>
+    <h1>Welcome to PawRight</h1>
   </header>
-  
-  <nav>
-    <a href="#">Option 1</a>
-    <a href="#">Option 2</a>
-    <a href="#">Option 3</a>
-  </nav>
 
   <div class="content">
     <p>This is a simple website to demonstrate HTML and CSS.</p>
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor vehicula est, eget eleifend nunc sodales vel.</p>
     <p>Choose an option from the navigation above.</p>
   </div>
+
+ <nav>
+    <a href="#">Option 1</a>
+    <a href="#">Option 2</a>
+    <a href="#">Option 3</a>
+  </nav>
+
 </body>
 </html>
