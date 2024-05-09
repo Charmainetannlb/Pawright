@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang=“en”>		
+	
+	<head>
+		<meta charset=“UTF-8”>	
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simple Website</title>
+  <style>
+    body {
+      background-color: #f0f0f0; /* Grey background */
+      font-family: Arial, sans-serif; /* Non-serif font */
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #333; /* Dark grey header */
+      color: #fff; /* White text */
+      padding: 20px;
+      text-align: center;
+    }
+
+    nav {
+      background-color: #ccc; /* Light grey navigation */
+      padding: 10px;
+      text-align: center;
+    }
+
+    nav a {
+      text-decoration: none;
+      color: #333; /* Dark grey link */
+      padding: 5px 10px;
+      margin: 0 10px;
+    }
+
+    nav a:hover {
+      background-color: #666; /* Dark grey hover effect */
+      color: #fff; /* White text on hover */
+    }
+
+    .content {
+      padding: 20px;
+    }
+
+    p {
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to Simple Website</h1>
+  </header>
+  
+  <nav>
+    <a href="#">Option 1</a>
+    <a href="#">Option 2</a>
+    <a href="#">Option 3</a>
+  </nav>
+
+  <div class="content">
+    <p>This is a simple website to demonstrate HTML and CSS.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempor vehicula est, eget eleifend nunc sodales vel.</p>
+    <p>Choose an option from the navigation above.</p>
+  </div>
+</body>
+</html>
