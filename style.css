@@ -1,0 +1,42 @@
+body {
+    background-color: #fff5eb; /* Cream header */
+    font-family: Arial, sans-serif; /* Non-serif font */
+    margin: 0;
+    padding: 0;
+  }
+
+  header {
+    background-color: #fff5eb; /* Cream header */
+    color: #333; /* Dark grey text */
+    padding: 20px;
+    text-align: center;
+  }
+
+  nav {
+    background-color: #ccc; /* Light grey navigation */
+    padding: 10px;
+    text-align: center;
+  }
+
+  nav a {
+    text-decoration: none;
+    color: #333; /* Dark grey link */
+    padding: 5px 10px;
+    margin: 0 10px;
+  } 
+
+  nav a:hover {
+    background-color: #666; /* Dark grey hover effect */
+    color: #fff; /* White text on hover */
+  }
+
+  .content {
+    padding: 20px;
+    border: 5px chocolate solid; 
+  }
+
+  p {
+    padding: 20px;
+    margin-bottom: 30px; /* between paragraphs */
+  }
+  
