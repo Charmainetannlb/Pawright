@@ -40,3 +40,7 @@ body {
     margin-bottom: 30px; /* between paragraphs */
   }
   
+  ul {
+    list-style-type: none;
+  }
+  
