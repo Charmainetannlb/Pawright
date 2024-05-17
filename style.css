@@ -105,7 +105,8 @@ body {
 }
 /* Customize the label (the container) */
 .container {
-  display: block;
+  display: flex; 
+  align-items: center;
   position: relative;
   padding-left: 35px;
   margin-bottom: 12px;
@@ -120,6 +121,9 @@ body {
 .container input {
   position: absolute;
   opacity: 0;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%)
 }
 .checkmark {
   position: absolute;
