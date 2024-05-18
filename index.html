@@ -55,7 +55,7 @@
         <img src="./images/jiachen-lin-AIk_5-M9Uho-unsplash.jpg"/ height="300" alt=city-skyline-under-cloudy-sky-showing-HDB-flats"/>
         <div class="card-body">
           <p class="card-text"></p>
-          <p id="attribute">Photo by <a href="https://unsplash.com/@jiachenlin?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jiachen Lin</a> on Unsplash
+          <p id="attribute">Photo by Jiachen Lin on Unsplash
           </p>
           <input type="radio" name="HDB-approved">
           <label for="interface1Radio"> My ideal dog would be approved to live in a HDB flat.</label>
@@ -71,35 +71,65 @@
           <p id="attribute">Photo by <Photo by <a href="https://unsplash.com/@stefankst?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Stefan K</a> on Unsplash</a>
           </p>
           <input type="radio" name="HDB-approved">
-          <label for="interface2Radio">My ideal dog can be as big as they like.</label>
+          <label for="interface1Radio">My ideal dog can be as big as they like.</label>
           <span class="checkmark"></span>
         </div>
       </div>
     </div>
-      <div class="disclaim">
-        <div><a> Remember that Singapore Specials that are approved to live in HDB flats can be no taller than 55cm.</a>
-        </div>
-        <a> Most puppies are not HDB-approved when they are under 8 months, as they are not fully-grown and their caregivers can't tell how tall they'll eventually be. </a>
-      </div>
-    </div>
+  <div class="disclaim">
+      <a> Remember that Singapore Specials that are approved to live in HDB flats can be no taller than 55cm.</a>
+      <a> Most puppies are not HDB-approved when they are under 8 months, as they are not fully-grown and their caregivers can't tell how tall they'll eventually be. </a>
+  </div>
 </nav>   
 
-<div class="row hidden" id="Age1">
+<div class="row hidden steps" id="Age1">
   <input type="radio" name="ageDog">
-     <label for="interface1Radio"> My ideal dog would be a puppy: active, floofy, and completely chaotic (and untrained).</label>
-     <span class="checkmark"></span><br>
+     <label for="interface2Radio"> My ideal dog would be a puppy: active, floofy, and completely chaotic (and untrained).</label>
+     <span class="checkmark"></span><br><br>
   <input type="radio" name="ageDog">
-      <label for="interface1Radio"> My ideal dog would be a young adult: growing into themselves and testing boundaries, with some training that needs to be continued.</label>
-      <span class="checkmark"></span><br>
+      <label for="interface2Radio"> My ideal dog would be a young adult: growing into themselves and testing boundaries, not unlike a human teenage monster.</label>
+      <span class="checkmark"></span><br><br>
   <input type="radio" name="ageDog">
-      <label for="interface1Radio"> My ideal dog would be an adult: matured and largely settled into their personality, and not likely to spring any surprises onto me.</label>
-      <span class="checkmark"></span><br>
+      <label for="interface2Radio"> My ideal dog would be an adult: calmer and largely settled into their personality, and not likely to spring any surprises onto me.</label>
+      <span class="checkmark"></span><br><br>
   <input type="radio" name="ageDog">
-      <label for="interface1Radio"> My ideal dog would be a senior: mature like a fine wine, calm like a serene lake, and wise beyond their years.</label>
+      <label for="interface2Radio"> My ideal dog would be a senior: mature like a fine wine, calm like a serene lake, and wise beyond their years.</label>
       <span class="checkmark"></span>
 </div>
   
+<div class="row hidden steps" id="character">
+  <p>My ideal dog would be (Choose a maximum of 2 characteristics):</p>
+  <input type="checkbox" class="personality" name="Active">
+    <label for="interface3check"> Active <br> Pros: Ready for a good run with me outdoors and always wanting to play!<br> Cons: Ready to run wild indoors and always wanting to play...
+    <span class="checkmark"></span><br><br>
+  <input type="checkbox" class="personality" name="Calm">
+    <label for="interface4check"> Calm <br> Pros: Unfazed by vehicles, prey animals, and a bomb going off under their bed. <br> Cons: Not sure if dog is dead or asleep...
+    <span class="checkmark"></span><br><br> 
+  <input type="checkbox" class="personality" name="Food-motivated">
+    <label for="interface5check"> Food-motivated <br> Pros: Will perform for munchies. <br> Cons: Always looking for food, even if it's not theirs...
+    <span class="checkmark"></span><br><br>
+  <input type="checkbox" class="personality" name="Intelligent">
+    <label for="interface6check"> Intelligent <br> Pros: Learns everything quickly! <br> Cons: ...Including how to open cupboards for food and doors to escape!
+    <span class="checkmark"></span><br><br>
+  <input type="checkbox" class="personality" name="Outgoing">
+    <label for="interface7check"> Outoing <br> Pros: Happy to meet everyone and anyone! <br> Cons: Easy to dog-nap...
+    <span class="checkmark"></span><br><br>
+  <a href="#" class="next" id="Next">Next! &raquo;</a>  
+</div>
 
+<div class="row hidden steps" id="lifestyle">
+  <p>My ideal dog needs to get along with:</p>
+  <input type="checkbox" name="others">
+    <label for="interface8check"> Cats
+    <span class="checkmark"></span><br><br>
+  <input type="checkbox" name="others">
+    <label for="interface9check"> Children
+    <span class="checkmark"></span><br><br>
+  <input type="checkbox" name="others">
+    <label for="interface10check"> Other dogs
+    <span class="checkmark"></span><br><br>
+  <a href="#" class="next">I'm done! &raquo;</a>  
+</div>
 </body>
 
 <footer>
