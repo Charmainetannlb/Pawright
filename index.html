@@ -10,7 +10,6 @@
   </style>
 </head>
   <link rel="stylesheet" href="style.css">
-  <script src="script.js"></script>
 <body>
   <header>
     <h1>Welcome to PawRight</h1>
@@ -50,43 +49,51 @@
 </div>
 
  <nav>
-  <div class="row">
+  <div class="row" id="HDBphoto">
     <div class="column">
-        <div class="card">
-            <img src="./images/jiachen-lin-AIk_5-M9Uho-unsplash.jpg"/ height="300" alt=city-skyline-under-cloudy-sky-showing-HDB-flats"/>
-            <div class="card-body">
-                <p class="card-text"></p>
-                <p id="attribute">Photo by <a href="https://unsplash.com/@jiachenlin?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jiachen Lin</a> on Unsplash
-                </p>
-                <input type="radio" name="HDB-approved" checked="checked">
-                    <span class="checkmark"></span>
-                  My ideal dog would be approved to live in a HDB flat.
-            </div>
-      </div>
-  </div>  
-      <div class="column">
-        <div class="card">
-            <img src="./images/stefan-k-_XJ8T9E9Evs-unsplash.jpg"/ height="300" alt=white-red-tiled-building-on-a-hill"/>
-            <div class="card-body">
-                <p class="card-text"></p>
-                <p id="attribute">Photo by <Photo by <a href="https://unsplash.com/@stefankst?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Stefan K</a> on Unsplash</a>
-                </p>
-                <input type="radio" name=""idealDog" checked="checked">
-                <span class="checkmark"></span>
-                   My ideal dog can be as big as they like.
-            </div>
+      <div class="card">
+        <img src="./images/jiachen-lin-AIk_5-M9Uho-unsplash.jpg"/ height="300" alt=city-skyline-under-cloudy-sky-showing-HDB-flats"/>
+        <div class="card-body">
+          <p class="card-text"></p>
+          <p id="attribute">Photo by <a href="https://unsplash.com/@jiachenlin?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jiachen Lin</a> on Unsplash
+          </p>
+          <input type="radio" id="interface1Radio" name="HDB-approved">
+          <label for="interface1Radio"> My ideal dog would be approved to live in a HDB flat.</label>
+          <span class="checkmark"></span>
         </div>
+      </div>
+    </div>  
+    <div class="column">
+      <div class="card">
+        <img src="./images/stefan-k-_XJ8T9E9Evs-unsplash.jpg"/ height="300" alt=white-red-tiled-building-on-a-hill"/>
+        <div class="card-body">
+          <p class="card-text"></p>
+          <p id="attribute">Photo by <Photo by <a href="https://unsplash.com/@stefankst?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Stefan K</a> on Unsplash</a>
+          </p>
+          <input type="radio" id="interface2Radio" name="HDB-approved">
+          <label for="interface2Radio">My ideal dog can be as big as they like.</label>
+          <span class="checkmark"></span>
+        </div>
+      </div>
     </div>
-  </div>
+      <div class="disclaim">
+        <div><a> Remember that Singapore Specials that are approved to live in HDB flats can be no taller than 55cm.</a>
+        </div>
+        <a> Most puppies are not HDB-approved when they are under 8 months, as they are not fully-grown and their caregivers can't tell how tall they'll eventually be. </a>
+      </div>
+    </div>
 </nav>   
-    
 
-  <div class="disclaim">
-    <div><a> Remember that Singapore Specials that are approved to live in HDB flats can be no taller than 55cm.</a>
-    </div>
-  <div><a> Most puppies are not HDB-approved when they are under 8 months, as they are not fully-grown and their caregivers can't tell how tall they'll eventually be. </a>
-  </div>
-  </div>
+<div id="interface1" class="interface active">
+  <!-- Content for Interface 1 -->
+</div>
+
+<div id="interface2" class="interface">
+  
+  <!-- Content for Interface 2 -->
+</div>
+
+  
 
 </body>
 
@@ -96,4 +103,5 @@
 </footer>
 
 
+<script src="script.js" type-"text/javascript"></script>
 </html>
