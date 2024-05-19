@@ -47,11 +47,13 @@ button.addEventListener("click", function() {
   document.getElementById("character").classList.add('hidden')
   document.getElementById("lifestyle").classList.remove('hidden');
 });
-  document.querySelectorAll('input[name="others"]').forEach(function(checkbox) {
-    //This grabs all the goddamn buttons called personality
-    checkbox.addEventListener('click', function() {
+
+var button = document.getElementById("Done");
+document.querySelectorAll('input[name="others"]').forEach(function(checkbox) {
+   // Attach an event listener to the button
+button.addEventListener("click", function() {
         //The instruction for these checkboxes is to add a listener event
-      document.getElementById("character").classList.add('hidden')
-      document.getElementById("xxxxxx").classList.remove('hidden');
+      document.getElementById("lifestyle").classList.add('hidden')
+      document.getElementById("results").classList.remove('hidden');
     });
   });
