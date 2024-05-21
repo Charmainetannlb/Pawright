@@ -1,4 +1,4 @@
-Name (var name),Gender (binary),DOB (date output),HBD-Approved (Binary),Child-friendly (Boolean),Cat-friendly (Boolean),Dog-friendly (Boolean),Active (Boolean),Calm (Boolean),Food-Motivated (Binary),Intelligent (Boolean),Outgoing (Boolean),Holding shelter (var string),Address (String),Image Links (String)
+Name,Gender,DOB,HBDApproved,Child,Cat,DogOther,Active,Calm,FoodMo,Intelligent,Outgoing,Holdingshel,Address,ImageLink
 Tao Bao,F,1-May-2017,N,,,Y,,,N,,N,ASD,https://asdsingapore.com/adopt/tao-bao,https://asdsingapore.com/assets/images/adopts/tao-bao-20220327145341.jpg
 Boone,M,1-Dec-2021,Y,N,,,Y,,N,,Y,ASD,https://asdsingapore.com/adopt/boone,https://asdsingapore.com/assets/images/adopts/boone-20230410221315.jpeg
 Adale,F,1-Nov-2022,Y,,,Y,,,N,,N,ASD,https://asdsingapore.com/adopt/adale,https://asdsingapore.com/assets/images/adopts/adale-20230501105153.jpg

@@ -4,11 +4,13 @@
 	<head>
 		<meta charset=“UTF-8”>	
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="d3.v7.js" type="text/javascript"></script>
+
   <title>Pawright</title>
   
 </head>
-  <link rel="stylesheet" href="style.css">
-  <script src="xxx" type="text/javascript"></script>
+
 
   <body>
   <header>
@@ -56,7 +58,7 @@
         <div class="card-body">
           <p id="attribute">Photo by Jiachen Lin on Unsplash
           </p>
-          <input type="radio" name="HDB-approved">
+          <input type="radio" name="HDBapproved">
           <label for="interface1Radio"> My ideal dog would be approved to live in a HDB flat.</label>
           <span class="checkmark"></span>
         </div>
@@ -68,7 +70,7 @@
         <div class="card-body">
           <p id="attribute">Photo by <Photo by <a href="https://unsplash.com/@stefankst?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Stefan K</a> on Unsplash</a>
           </p>
-          <input type="radio" name="HDB-approved">
+          <input type="radio" name="HDBapproved">
           <label for="interface1Radio">My ideal dog can be as big as they like.</label>
           <span class="checkmark"></span>
         </div>
@@ -112,7 +114,7 @@
   <input type="checkbox" class="personality" name="Calm">
     <label for="interface4check"> Calm <br> Pros: Unfazed by vehicles, prey animals, and a bomb going off under their bed. <br> Cons: Not sure if dog is dead or asleep...
     <span class="checkmark"></span><br><br> 
-  <input type="checkbox" class="personality" name="Food-motivated">
+  <input type="checkbox" class="personality" name="FoodMo">
     <label for="interface5check"> Food-motivated <br> Pros: Will perform for munchies. <br> Cons: Always looking for food, even if it's not theirs...
     <span class="checkmark"></span><br><br>
   <input type="checkbox" class="personality" name="Intelligent">
@@ -130,13 +132,13 @@
 
 <div class="row hidden steps" id="lifestyle">
   <p>My ideal dog needs to get along with:</p>
-  <input type="checkbox" name="others">
+  <input type="checkbox" class="others" name="Cat">
     <label for="interface8check"> Cats
     <span class="checkmark"></span><br><br>
-  <input type="checkbox" name="others">
+  <input type="checkbox" class="others" name="Child">
     <label for="interface9check"> Children
     <span class="checkmark"></span><br><br>
-  <input type="checkbox" name="others">
+  <input type="checkbox" class="others" name="DogOther">
     <label for="interface10check"> Other dogs
     <span class="checkmark"></span><br><br>
   <a href="#" class="next" id="Done">I'm done! &raquo;</a>  
@@ -168,13 +170,14 @@
       </div>
     </div> 
   </div>
+
   <footer>
     <p class="footnote">Disclaimer:
       This website is created for learning purposes only. The information provided here should not be considered professional advice. Please note that we make no guarantees regarding the accuracy, completeness, or reliability of the contents of this website. Any actions you take based on the contents of this website are at your own risk. We are not liable for any losses or damages incurred from the use of this website.</p>
   </footer>
   
+  <script src="script.js" type="text/javascript"></script>
 
 
-<script src="script.js" type="text/javascript"></script>
 </body>
 </html>
