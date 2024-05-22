@@ -1,30 +1,8 @@
-/*function collect() {
-  var HDBApproved = document.querySelector('input[name="HDBapproved"]:checked').value;
-  var DOB = document.getElementById("Age1").value;
-  var Active = document.querySelector('input[name="character"]:checked').value;
-  var Calm = document.querySelector('input[name="calm"]:checked').value;
-  var FoodMo = document.querySelector('input[name="foodMo"]:checked').value;
-  var Intelligent = document.querySelector('input[name="intelligent"]:checked').value;
-  var Outgoing = document.querySelector('input[name="outgoing"]:checked').value;
-  var Cat = document.querySelector('input[name="cat"]:checked').value;
-  var Child = document.querySelector('input[name="child"]:checked').value;
-  var DogOther = document.querySelector('input[name="dogOther"]:checked').value;
-
-  console.log("HDBApproved:", HDBApproved);
-  console.log("DOB:", DOB);
-  console.log("Active:", Active);
-  console.log("Calm:", Calm);
-  console.log("FoodMo:", FoodMo);
-  console.log("Intelligent:", Intelligent);
-  console.log("Outgoing:", Outgoing);
-  console.log("Cat:", Cat);
-  console.log("Child:", Child);
-  console.log("DogOther:", DogOther);
-}*/
+var database = new Array();
 
 function collect() {
   var HDBApprovedInput = document.querySelector('input[name="HDBapproved"]:checked');
-  var DOBInput = document.getElementById("Age1");
+  var DOBInput = document.querySelector('input[name="ageDog"]:checked');
   var ActiveInput = document.querySelector('input[name="Active"]:checked');
   var CalmInput = document.querySelector('input[name="Calm"]:checked');
   var FoodMoInput = document.querySelector('input[name="FoodMo"]:checked');
@@ -46,11 +24,11 @@ function collect() {
   console.log("DogOther input:", DogOtherInput);
 
   // Now let's try to retrieve the values
-  var HDBApproved = HDBApprovedInput ? HDBApprovedInput.value : null;
+  var HDBApproved = HDBApprovedInput ? HDBApprovedInput.value : "N";
   var DOB = DOBInput ? DOBInput.value : null;
   var Active = ActiveInput ? ActiveInput.value : null;
   var Calm = CalmInput ? CalmInput.value : null;
-  var FoodMo = FoodMoInput ? FoodMoInput.value : null;
+  var FoodMo = FoodMoInput ? FoodMoInput.value : "N";
   var Intelligent = IntelligentInput ? IntelligentInput.value : null;
   var Outgoing = OutgoingInput ? OutgoingInput.value : null;
   var Cat = CatInput ? CatInput.value : null;
@@ -67,6 +45,18 @@ function collect() {
   console.log("Cat:", Cat);
   console.log("Child:", Child);
   console.log("DogOther:", DogOther);
+  return {
+    'HDBApproved': HDBApproved,
+    'DOB': DOB,
+    'Active': Active,
+    'Calm': Calm,
+    'FoodMo': FoodMo,
+    'Intelligent': Intelligent,
+    'Outgoing': Outgoing,
+    'Cat': Cat,
+    'Child': Child,
+    'DogOther': DogOther,
+  }
 }
 
 
@@ -127,17 +117,33 @@ button.addEventListener("click", function() {
 
 var button = document.getElementById("Done");
  // Attach an event listener to the button
- button.addEventListener("click", function() {
-  collect();
-document.querySelectorAll('input[class="others"]').forEach(function(checkbox) {
-        //The instruction for these checkboxes is to add a listener event
-      document.getElementById("lifestyle").classList.add('hidden')
-      document.getElementById("results").classList.remove('hidden');
+  button.addEventListener("click", function() {
+    var options = collect();
+    var filtered_dogs = database.filter(function(obj){
+      //if (obj.Name == "Adele")
+      //  console.log(obj);
+      return (obj.HBDApproved == options.HDBApproved) && 
+        (options.Active == null || (obj.Active == options.Active)) &&
+        (options.Calm == null || (obj.Calm == options.Calm)) &&
+        (obj.FoodMo == options.FoodMo) && 
+        (options.Intelligent == null || (obj.Intelligent == options.Intelligent)) &&
+        (options.Outgoing == null || (obj.Outgoing == options.Outgoing)) &&
+        (options.Cat == null || (obj.Cat == options.Cat)) &&
+        (options.Child == null || (obj.Child == options.Child)) &&
+        (options.DogOther == null || (obj.DogOther == options.DogOther)) &&
+        true;
     });
-  });
+    document.querySelectorAll('input[class="others"]').forEach(function(checkbox) {
+        //The instruction for these checkboxes is to add a listener event
+        document.getElementById("lifestyle").classList.add('hidden')
+        document.getElementById("results").classList.remove('hidden');
+      }
+    );
+    console.log(filtered_dogs);
+  }
+);
 
-var database = new Array();
-d3.csv("Data/Doggos17052024 - Sheet1.csv", 
+var promise = d3.csv("Data/Doggos17052024 - Sheet1.csv", 
     function(data) {
       database.push(data);
       /*console.log(data.Active);
@@ -159,20 +165,30 @@ d3.csv("Data/Doggos17052024 - Sheet1.csv",
   );
 console.log(database);
 
+// Define a function called 'filterByHDBApproved'
+function filterByHDBApproved(arr) {
+  //console.log(arr);
+  // Use the 'filter' method on the array
+  // It goes through each object in the array and keeps only those where 'HDBapproved' property is not false.
+  return arr.filter(function(o) {
+    // For each object (denoted by 'obj'), if its 'HBDapproved' property is not false, keep it.
+    //console.log(o);
+    return obj.HBDApproved == 'N';
+  });
+}
 
 
-/*function collect() {
-  var HDBApproved = document.getElementById("HDBphoto").value;
-  var DOB = document.getElementById("Age1").value;
-  var Active = document.getElementById("character").value;
-  var Calm = document.getElementById("character").value;
-  var FoodMo = document.getElementById("character").value;
-  var Intelligent = document.getElementById("character").value;
-  var Outgoing = document.getElementById("character").value;
-  var Cat = document.getElementById("lifestyle").value;
-  var Child = document.getElementById("lifestyle").value;
-  var DogOther = document.getElementById("lifestyle").value;
-  var text = "";
-console.log();''
-}*/
+console.log(database);
+// The function will return a new array containing only the objects where 'HDBapproved' is not false.
+//var filteredArray = database.filter(function(o){return o.HBDApproved === 'N';});
+//var filteredArray = database.filter(function(o){return true;});
+
+// Output the filtered array to the console.
+console.log("filtering");
+//console.log(filteredArray);
+promise.then(function()
+  {
+    console.log(database.filter(function(o){return o.HBDApproved == 'Y';}));
+  }
+)
 
