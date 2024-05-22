@@ -62,12 +62,13 @@ body {
 }
 
 #attribute {
-  font-size: 10px;
+  font-size: 12px;
 }
 
 .row {
   display: block;
   background-color: #fff5eb; /* Cream header */
+  overflow: hidden;
 }
 
 .column {
@@ -82,6 +83,7 @@ body {
   overflow: hidden;
   border: 1px solid #ccc;
   border-radius: 5px;
+  text-align: center; /* Center align the content */
 }
 
 .card img {
@@ -90,6 +92,9 @@ body {
   display: inline-block;
   margin: 0 auto; /* Center the images horizontally */
 }
+
+
+
 /* Customize the label (the container) */
 .container {
   display: flex; 

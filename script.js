@@ -134,6 +134,51 @@ var button = document.getElementById("Done");
         (options.DogOther == null || (obj.DogOther == options.DogOther)) &&
         true;
     });
+    var resultsContainer = document.getElementById("results");
+  resultsContainer.innerHTML = ""; // Clear existing results
+  
+  // Loop through filtered dogs and create card elements
+  filtered_dogs.forEach(function(dog) {
+    var column = document.createElement("div");
+    column.className = "column";
+    
+    var card = document.createElement("div");
+    card.className = "card";
+    
+    var image = document.createElement("img");
+    image.src = dog.ImageLink; // Replace "dog.imageUrl" with the actual property containing the image URL
+    image.alt = "image-of-a-recommended-dog";
+    
+    var cardBody = document.createElement("div");
+    cardBody.className = "card-body";
+    
+    var descriptionParagraph = document.createElement("p");
+    descriptionParagraph.className = "card-text";
+    descriptionParagraph.textContent = dog.Name; // Replace "dog.description" with the actual property containing the description
+    
+    var attributeParagraph = document.createElement("p");
+    attributeParagraph.id = "content";
+    var link = document.createElement("a");
+    link.href = dog.Address;
+    link.textContent = "Photo from " + dog.Address;
+    link.target = "_blank";
+    attributeParagraph.appendChild(link);
+    
+    // Append elements to cardBody
+    cardBody.appendChild(descriptionParagraph);
+    cardBody.appendChild(attributeParagraph);
+    
+    // Append elements to card
+    card.appendChild(image);
+    card.appendChild(cardBody);
+    
+    // Append card to column
+    column.appendChild(card);
+    
+    // Append column to resultsContainer
+    resultsContainer.appendChild(column);
+    resultsContainer.appendChild(column);
+  });
     document.querySelectorAll('input[class="others"]').forEach(function(checkbox) {
         //The instruction for these checkboxes is to add a listener event
         document.getElementById("lifestyle").classList.add('hidden')
@@ -215,3 +260,8 @@ promise.then(function()
   }
 )
 
+
+
+  // Hide lifestyle section and show results
+  //document.getElementById("lifestyle").classList.add('hidden');
+  //resultsContainer.classList.remove('hidden');
