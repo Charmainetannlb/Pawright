@@ -123,6 +123,7 @@ var button = document.getElementById("Done");
       //if (obj.Name == "Adele")
       //  console.log(obj);
       return (obj.HBDApproved == options.HDBApproved) && 
+        (obj.AgeValue == options.DOB) &&
         (options.Active == null || (obj.Active == options.Active)) &&
         (options.Calm == null || (obj.Calm == options.Calm)) &&
         (obj.FoodMo == options.FoodMo) && 
@@ -143,8 +144,29 @@ var button = document.getElementById("Done");
   }
 );
 
+function mapAgeType(age) {
+  if (age >= 0 && age <= 2) {
+    return "puppy";
+  } else if (age >= 2 && age <= 5) {
+    return "ya";
+  } else if (age >= 5 && age <= 9) {
+    return "adult";
+  } else {
+    return "senior";
+  }
+}
+
 var promise = d3.csv("Data/Doggos17052024 - Sheet1.csv", 
     function(data) {
+      var dob = new Date(data.DOB);
+      var currentDate = new Date ();
+      var age = currentDate.getFullYear() - dob.getFullYear();
+      if (currentDate.getMonth() < dob.getMonth() || (currentDate.getMonth() === dob.getMonth() && currentDate.getDate() < dob.getDate())) {
+        // Subtract 1 from age if the birthday hasn't occurred yet this year
+        age--;}
+      data.age=age;
+      var ageValue = mapAgeType(age);
+     data.AgeValue=ageValue; 
       database.push(data);
       /*console.log(data.Active);
       console.log(data.Address);
@@ -164,6 +186,7 @@ var promise = d3.csv("Data/Doggos17052024 - Sheet1.csv",
     }
   );
 console.log(database);
+
 
 // Define a function called 'filterByHDBApproved'
 function filterByHDBApproved(arr) {
