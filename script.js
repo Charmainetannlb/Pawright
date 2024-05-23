@@ -137,6 +137,10 @@ var button = document.getElementById("Done");
     var resultsContainer = document.getElementById("results");
   resultsContainer.innerHTML = ""; // Clear existing results
   
+
+if (filtered_dogs.length === 0){
+  alert("We're sorry, there are no adoptable dogs that match your criteria at this time. Please try again in a few weeks when we may have more dogs up for adoption. Thank you for adopting!");
+} else{
   // Loop through filtered dogs and create card elements
   filtered_dogs.forEach(function(dog) {
     var column = document.createElement("div");
@@ -146,7 +150,7 @@ var button = document.getElementById("Done");
     card.className = "card";
     
     var image = document.createElement("img");
-    image.src = dog.ImageLink; // Replace "dog.imageUrl" with the actual property containing the image URL
+    image.src = dog.ImageLink; 
     image.alt = "image-of-a-recommended-dog";
     
     var cardBody = document.createElement("div");
@@ -154,7 +158,7 @@ var button = document.getElementById("Done");
     
     var descriptionParagraph = document.createElement("p");
     descriptionParagraph.className = "card-text";
-    descriptionParagraph.textContent = dog.Name; // Replace "dog.description" with the actual property containing the description
+    descriptionParagraph.textContent = dog.Name;
     
     var attributeParagraph = document.createElement("p");
     attributeParagraph.id = "content";
@@ -178,16 +182,14 @@ var button = document.getElementById("Done");
     // Append column to resultsContainer
     resultsContainer.appendChild(column);
     resultsContainer.appendChild(column);
-  });
+  })};
     document.querySelectorAll('input[class="others"]').forEach(function(checkbox) {
         //The instruction for these checkboxes is to add a listener event
         document.getElementById("lifestyle").classList.add('hidden')
         document.getElementById("results").classList.remove('hidden');
-      }
-    );
+      });
     console.log(filtered_dogs);
-  }
-);
+    });
 
 function mapAgeType(age) {
   if (age >= 0 && age <= 2) {
@@ -199,7 +201,7 @@ function mapAgeType(age) {
   } else {
     return "senior";
   }
-}
+};
 
 var promise = d3.csv("Data/Doggos17052024 - Sheet1.csv", 
     function(data) {
