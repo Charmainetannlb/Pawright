@@ -139,7 +139,7 @@ var button = document.getElementById("Done");
   
 
 if (filtered_dogs.length === 0){
-  alert("We're sorry, there are no adoptable dogs that match your criteria at this time. Please try again in a few weeks when we may have more dogs up for adoption. Thank you for adopting!");
+  alert("We're sorry, there are no adoptable dogs that match your criteria at this time. Please try again in a few weeks when we may have more dogs up for adoption. Alternatively, if you are flexible on your criteria, refresh the page and try matching again. Thank you for adopting!");
 } else{
   // Loop through filtered dogs and create card elements
   filtered_dogs.forEach(function(dog) {
