@@ -1,19 +1,19 @@
 body {
-    background-color: #fff5eb; /* Cream header */
-    font-family: Arial, sans-serif; /* Non-serif font */
-    margin: 0;
-    padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f5f5f5;
+  color: #333;
+  margin: 0;
+  padding: 0;
   }
 
   header {
-    background-color: #fff5eb; /* Cream header */
-    color: #333; /* Dark grey text */
     padding: 20px;
+    background-color: #333;
+    color: #fff;
     text-align: center;
   }
 
   nav {
-    
     padding: 10px;
     text-align: center;
   }
@@ -29,6 +29,7 @@ body {
     display: flex;
     justify-content: center;
     width: 100% 
+    background-color: #f5f5f5;
 }
 
   .content {
@@ -41,9 +42,10 @@ body {
 
   .box {
     margin: 10px;
-    border: 5px chocolate solid; 
+    border: 5px rgb(10, 8, 7) solid; 
     padding-left: 60px;
     padding-right: 60px;
+    background-color: #f5f5f5;
 }
 
   
@@ -67,7 +69,7 @@ body {
 
 .row {
   display: block;
-  background-color: #fff5eb; /* Cream header */
+  background-color: #f5f5f5;
   overflow: hidden;
 }
 
@@ -201,4 +203,6 @@ a:hover {
   color: #888; /* Adjust the color as needed */
   margin-top: 10px; /* Adjust the top margin as needed */
   padding: 50px;
+  background-color: #333;
+  color: #fff;
 }
