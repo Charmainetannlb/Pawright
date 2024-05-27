@@ -164,7 +164,7 @@ if (filtered_dogs.length === 0){
     attributeParagraph.id = "content";
     var link = document.createElement("a");
     link.href = dog.Address;
-    link.textContent = "Photo from " + dog.Address;
+    link.textContent = "Click me! Photo from " + dog.Address;
     link.target = "_blank";
     attributeParagraph.appendChild(link);
     
