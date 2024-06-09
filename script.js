@@ -105,7 +105,14 @@ document.querySelectorAll('input[name="HDBapproved"]').forEach(function(radio) {
     });
   });
 
+  var button = document.getElementById("Return");
 
+  // Attach an event listener to the button
+  button.addEventListener("click", function() {
+    // Code to execute when the button is clicked
+    window.location.href = "pawright.org";
+  });
+  
 
   // Get a reference to the button element
 var button = document.getElementById("Next");
