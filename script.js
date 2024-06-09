@@ -110,7 +110,7 @@ document.querySelectorAll('input[name="HDBapproved"]').forEach(function(radio) {
   // Attach an event listener to the button
   button.addEventListener("click", function() {
     // Code to execute when the button is clicked
-    window.location.href = "pawright.org";
+    window.location.href = "http://pawright.org";
   });
   
 
