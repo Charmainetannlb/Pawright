@@ -23,7 +23,7 @@ function collect() {
   console.log("Child input:", ChildInput);
   console.log("DogOther input:", DogOtherInput);
 
-  // Now let's try to retrieve the values
+  // Now retrieve the values
   var HDBApproved = HDBApprovedInput ? HDBApprovedInput.value : "N";
   var DOB = DOBInput ? DOBInput.value : null;
   var Active = ActiveInput ? ActiveInput.value : null;
@@ -61,10 +61,12 @@ function collect() {
 
 
 document.querySelectorAll('input[name="HDBapproved"]').forEach(function(radio) {
-    //This grabs all the goddamn buttons called HDBapproved
+    //This grabs all the buttons called HDBapproved
     radio.addEventListener('click', function() {
         //The instruction for these radio buttons is to add a listener event
       document.getElementById("HDBphoto").classList.add('hidden')
+      document.getElementById("WhatPaw").classList.add('hidden')
+      document.getElementById("WhoPaw").classList.add('hidden')
       document.getElementById("Age1").classList.remove('hidden');
     });
   });
@@ -118,7 +120,7 @@ button.addEventListener("click", function() {
 var button = document.getElementById("Done");
  // Attach an event listener to the button
   button.addEventListener("click", function() {
-    var options = collect();
+    var options = collect(); //call collect and store data in options
     var filtered_dogs = database.filter(function(obj){
       //if (obj.Name == "Adele")
       //  console.log(obj);
@@ -164,7 +166,7 @@ if (filtered_dogs.length === 0){
     attributeParagraph.id = "content";
     var link = document.createElement("a");
     link.href = dog.Address;
-    link.textContent = "Click me! Photo from " + dog.Address;
+    link.textContent = "Click me! Photo from" + dog.Address;
     link.target = "_blank";
     attributeParagraph.appendChild(link);
     
