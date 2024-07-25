@@ -1,7 +1,6 @@
 Name,Gender,DOB,HBDApproved,Child,Cat,DogOther,Active,Calm,FoodMo,Intelligent,Outgoing,Holdingshel,Address,ImageLink
 Tao Bao,F,1-May-2017,N,,,Y,,,N,,N,ASD,https://asdsingapore.com/adopt/tao-bao,https://asdsingapore.com/assets/images/adopts/tao-bao-20220327145341.jpg
 Boone,M,1-Dec-2021,Y,N,,,Y,,N,,Y,ASD,https://asdsingapore.com/adopt/boone,https://asdsingapore.com/assets/images/adopts/boone-20230410221315.jpeg
-Lucio,M,1-Mar-2024,N,,,,,,Y,,,ASD,https://asdsingapore.com/adopt/lucio,https://asdsingapore.com/assets/images/adopts/lucio-20240706114445.jpg
 Lovelle,F,1-Mar-2024,N,,,Y,,Y,N,,,ASD,https://asdsingapore.com/adopt/lovelle,https://asdsingapore.com/assets/images/adopts/lovelle-20240603171840.jpg
 Adale,F,1-Nov-2022,Y,,,Y,,,N,,N,ASD,https://asdsingapore.com/adopt/adale,https://asdsingapore.com/assets/images/adopts/adale-20230501105153.jpg
 Tiramisu,M,1-Sep-2019,N,,,,Y,,N,,Y,ASD,https://asdsingapore.com/adopt/tiramisu,https://asdsingapore.com/assets/images/adopts/tiramisu-20230410221728.jpeg
@@ -102,6 +101,7 @@ Libby,F,1-Dec-2017,N,,,Y,,,Y,,,SOSD,https://sosd.org.sg/wpcproduct/libby/?form=a
 Lucki,M,1-May-2018,N,,,,Y,,N,,Y,SOSD,https://sosd.org.sg/wpcproduct/lucki/?form=adopt,https://sosd.org.sg/wp-content/uploads/2019/11/Lucki-e1572778132316.jpg
 Marsh,M,1-Jan-2017,N,,,Y,,,Y,,,SOSD,https://sosd.org.sg/wpcproduct/marsh/?form=adopt,https://sosd.org.sg/wp-content/uploads/2023/12/Marsh-e1703570862805.jpg
 Martin,M,15-Aug-2020,N,,,Y,,,N,,,SOSD,https://sosd.org.sg/wpcproduct/martin/?form=adopt,https://sosd.org.sg/wp-content/uploads/2023/12/Martin3-e1703571050794.jpg
+Maxine,F,29-Jun-2022,Y,,,,,,N,,,SOSD,https://sosd.org.sg/wpcproduct/maxine/?form=adopt,https://sosd.org.sg/wp-content/uploads/2024/07/Maxine-e1719805835417.jpg
 Odin,M,29-Aug-2019,N,,,,,Y,Y,,,SOSD,https://sosd.org.sg/wpcproduct/odin/?form=adopt,https://sosd.org.sg/wp-content/uploads/2023/09/Odin-e1695465519640.jpg
 Panther,M,20-Jan-2014,Y,,,,,,Y,,,SOSD,https://sosd.org.sg/wpcproduct/panther/?form=adopt,https://sosd.org.sg/wp-content/uploads/2024/03/Panther-e1709739611452.jpg
 Patrick,M,2-Jan-2019, Y,N,,Y,,,Y,,Y,SOSD,https://sosd.org.sg/wpcproduct/patrick/?form=adopt,https://sosd.org.sg/wp-content/uploads/2022/06/Patrick-e1654713768968.jpg
@@ -116,6 +116,7 @@ Sneezy,M,1-Dec-2017,N,,,,,,Y,,,SOSD,https://sosd.org.sg/wpcproduct/sneezy/?form=
 Snickers,M,15-Apr-2017,Y,,,,,,N,,,SOSD,https://sosd.org.sg/wpcproduct/snickers/?form=adopt,https://sosd.org.sg/wp-content/uploads/2024/01/Snickers-e1706666386595.jpg
 Snoopy,M,15-May-2019,Y,,,,,,N,,,SOSD,https://sosd.org.sg/wpcproduct/snoopy/?form=adopt,https://sosd.org.sg/wp-content/uploads/2024/03/Snoopy-e1709739753979.jpg
 Stevie,M,31-Mar-2015,Y,,,,,,N,,,SOSD,https://sosd.org.sg/wpcproduct/stevie/?form=adopt,https://sosd.org.sg/wp-content/uploads/2023/05/Stevie-e1684036254606.jpg
+Tales,M,1-Dec,2015,Y,,,,,,Y,,,SOSD,https://sosd.org.sg/wpcproduct/tales/?form=adopt,https://sosd.org.sg/wp-content/uploads/2023/12/Tales-e1703572208260.jpg
 Tally,F,1-Jan-2016,Y,,,,,,N,Y,,SOSD,https://sosd.org.sg/wpcproduct/tally/?form=adopt,https://sosd.org.sg/wp-content/uploads/2021/01/Tally-e1611122106506.jpg
 Tami,F,3-Oct-2013,Y,,,,,,N,,,SOSD,https://sosd.org.sg/wpcproduct/tami/?form=adopt,https://sosd.org.sg/wp-content/uploads/2022/06/Tami-e1654716524995.jpg
 Tanya,F,1-Dec-2016,Y,,,,,Y,Y,,,SOSD,https://sosd.org.sg/wpcproduct/tanya/?form=adopt,https://sosd.org.sg/wp-content/uploads/2024/04/Tanya-e1712129412416.jpg
@@ -130,26 +131,23 @@ Ah Girl,F,1-Aug-2007,Y,,,,,,N,,,SPCA,https://spca.org.sg/animal/ah-girl/,https:/
 Anakin,M,1-Mar-2022,Y,,,,Y,,Y,Y,Y,SPCA,https://spca.org.sg/animal/anakin/,https://spca.org.sg/wp-content/uploads/2023/10/1-WhatsApp-Image-2023-09-05-at-17.18.18-1.jpeg
 Argo,M,1-Aug-2020,N,,,,,,N,,Y,SPCA,https://spca.org.sg/animal/argo/,https://spca.org.sg/wp-content/uploads/2023/10/IMG-20231005-WA0031.jpg
 Bacon,M,1-Apr-2018,N,,,,,,N,,,SPCA,https://spca.org.sg/animal/bacon/,https://spca.org.sg/wp-content/uploads/2023/07/IMG-20230705-WA0020.jpg
+Blackie,M,1-Jul-2012,Y,,,,Y,,Y,,,SPCA,https://spca.org.sg/animal/blackie-2/,https://spca.org.sg/wp-content/uploads/2024/07/IMG-20240716-WA0008.jpg
 Bear,M,1 Aug 2023,N,,,,,,N,,,SPCA,https://spca.org.sg/animal/bear/,https://spca.org.sg/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-02-at-16.27.31_5f03abf5.jpg
 Benny,M,1-Jan-2013,N,,,,,,N,,,SPCA,https://spca.org.sg/animal/benny/,https://spca.org.sg/wp-content/uploads/2022/12/Benny_2.jpg
 Brownie,F,1-May-2015,N,,,,,,N,,,SPCA,https://spca.org.sg/animal/brownie/,https://spca.org.sg/wp-content/uploads/2022/12/Brownie_1.jpg
-Bubbles,F,1-Feb-2024,N,,,,Y,,N,,Y,SPCA,https://spca.org.sg/animal/bubbles/,https://spca.org.sg/wp-content/uploads/2024/06/IMG-20240626-WA0031.jpg
 Candie,F,1-Aug-2023,Y,,,,,,N,,,SPCA,https://spca.org.sg/animal/candie/,https://spca.org.sg/wp-content/uploads/2024/06/IMG-20240612-WA0035.jpg
 Cashmere,M,1-Oct-2021,N,,,,Y,,N,,,SPCA,https://spca.org.sg/animal/cashmere/,https://spca.org.sg/wp-content/uploads/2023/12/Cashmere.png
 Channing,M,1-Jan-2016,N,,,,,,N,,,SPCA,https://spca.org.sg/animal/channing/,https://spca.org.sg/wp-content/uploads/2022/12/Channing_1.jpg
 Cliff,M,1-Sep-2013,N,,,,Y,,N,,,SPCA,https://spca.org.sg/animal/cliff/,https://spca.org.sg/wp-content/uploads/2022/12/Cliff_1.jpg
 Danny,M,1-Apr-2022,Y,,,Y,,,Y,Y,,SPCA,https://spca.org.sg/animal/danny-2/,https://spca.org.sg/wp-content/uploads/2024/01/Danny-1.png
 Didi,M,1-Apr-2022,N,,,,,,N,,,SPCA,https://spca.org.sg/animal/didi/,https://spca.org.sg/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-02-at-16.32.15_97a0a8a2.jpg
-Giant,M,1-Sep-2015,N,,,,Y,,N,,,SPCA,https://spca.org.sg/animal/giant/,https://spca.org.sg/wp-content/uploads/2023/11/IMG-20231107-WA0046.jpg
 Gnocchi,M,1-Dec-2022,Y,,,Y,,,N,,,SPCA,https://spca.org.sg/animal/gnocchi/,https://spca.org.sg/wp-content/uploads/2023/12/Gnicchi.jpg
 Hammie,M,1-Apr-2018,N,,,,,,N,,,SPCA,https://spca.org.sg/animal/hammie/,https://spca.org.sg/wp-content/uploads/2023/07/IMG-20230705-WA0022.jpg
 Han Solo,M,1-Oct-2022,Y,,,Y,,,Y,,,SPCA,https://spca.org.sg/animal/han-solo/,https://spca.org.sg/wp-content/uploads/2024/02/photo_2024-02-07_16-03-19-1.jpg
 Hazel,F,1-May-2015,N,,,,,Y,N,,,SPCA,https://spca.org.sg/animal/hazel/,https://spca.org.sg/wp-content/uploads/2022/12/Hazel_1.jpg
 Hero,M,1-May-2021,N,,,,Y,,N,,,SPCA,https://spca.org.sg/animal/hero/,https://spca.org.sg/wp-content/uploads/2023/12/IMG-20240520-WA0011.jpg
-Jerrine,F,1-Jul-2021,N,,,,,,N,,,SPCA,https://spca.org.sg/animal/jerrine/https://spca.org.sg/wp-content/uploads/2024/07/WhatsApp-Image-2024-07-09-at-14.18.55_546a2c46.jpg
 Keiji,M,1-Jul-2016,N,,,,,,N,,,SPCA,https://spca.org.sg/animal/keiji/,https://spca.org.sg/wp-content/uploads/2022/12/Keiji_1.jpg
 Kishen,M,1-Sep-2016,N,,,,,,N,,,SPCA,https://spca.org.sg/animal/kishen/,https://spca.org.sg/wp-content/uploads/2022/12/Kishen_1.jpg
-Leslie,M,1-Jul-2012,Y,,,,,,N,,,SPCA,https://spca.org.sg/animal/leslie/,https://spca.org.sg/wp-content/uploads/2024/07/IMG-20240708-WA0038.jpg
 Luna,F,1-Aug-2023,Y,,,,,,N,Y,Y,SPCA,https://spca.org.sg/animal/luna-5/,https://spca.org.sg/wp-content/uploads/2024/02/photo1708606148.jpeg
 Macho,M,1-Apr-2018,N,,,,Y,,Y,,,SPCA,https://spca.org.sg/animal/macho/,https://spca.org.sg/wp-content/uploads/2022/12/Macho_1.jpg
 Midnight,M,1-Feb-2021,Y,,,Y,,Y,N,,,SPCA,https://spca.org.sg/animal/midnight/,https://spca.org.sg/wp-content/uploads/2024/04/1-20240409_103711.jpg
@@ -160,12 +158,12 @@ Pancake,M,1-Mar-2012,N,,,Y,,,Y,Y,Y,SPCA,https://spca.org.sg/animal/pancake/,http
 Peanut,M,1-Feb-2015,N,,,,,Y,N,,,SPCA,https://spca.org.sg/animal/peanut/,https://spca.org.sg/wp-content/uploads/2022/12/Peanut_1.jpg
 Pickles,M,1-Dec-2022,Y,,,Y,,,N,,,SPCA,https://spca.org.sg/animal/pickles/,https://spca.org.sg/wp-content/uploads/2023/12/20.jpg
 Rocky,M,1-Jul-2014,Y,N,,N,,Y,N,,Y,SPCA,https://spca.org.sg/animal/rocky-2/,https://spca.org.sg/wp-content/uploads/2023/05/DSF1292jpeg-scaled.jpg
+Rogue,M,1-Feb-2017,Y,,,,Y,,N,,,SPCA,https://spca.org.sg/animal/rogue/,https://spca.org.sg/wp-content/uploads/2024/07/IMG-20240717-WA0019.jpg
 Scooby,M,1-Jun-2021,N,,,,Y,,Y,,,SPCA,https://spca.org.sg/animal/scooby-2/,https://spca.org.sg/wp-content/uploads/2024/06/IMG-20240527-WA0039.jpg
 Spike,M,1-Jul-2015,N,,,,,,N,,,SPCA,https://spca.org.sg/animal/spike/,https://spca.org.sg/wp-content/uploads/2022/12/Spike_1.jpg
-Sunkist,M,1-Jan-2021,Y,,,,,,N,,N,SPCA,https://spca.org.sg/animal/sunkist/,https://spca.org.sg/wp-content/uploads/2024/06/IMG-20240612-WA0044.jpg
 Sweenie,F,1-Jul-2019,Y,,,,,,N,,,SPCA,https://spca.org.sg/animal/sweenie/,https://spca.org.sg/wp-content/uploads/2024/07/IMG-20240708-WA0025.jpg
 Timmy,M,1-Aug-2020,Y,,,,,,N,,,SPCA,https://spca.org.sg/animal/timmy-2/,https://spca.org.sg/wp-content/uploads/2023/09/IMG-20230912-WA0022.jpg
 Tita,F,1-Aug-2020,N,,,,,,N,,,SPCA,https://spca.org.sg/animal/tita/,https://spca.org.sg/wp-content/uploads/2022/12/Tita_1.jpg
-Tom,M,1-Jul-2022,N,,,,,,N,,,SPCA,https://spca.org.sg/animal/tom-2/,https://spca.org.sg/wp-content/uploads/2024/07/WhatsApp-Image-2024-07-09-at-14.16.39_11903089.jpg
 Toto,M,1-Oct-2021,N,,,,,,N,,,SPCA,https://spca.org.sg/animal/toto/,https://spca.org.sg/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-02-at-16.30.42_3c8fc66a.jpg
 Tracy,F,1-Jun-2021,Y,,,,,,N,,N,SPCA,https://spca.org.sg/animal/tracy-2/,https://spca.org.sg/wp-content/uploads/2024/06/IMG-20240612-WA0046.jpg
+Tutu,F,1-Jul-2019,Y,,,,,,Y,,,SPCA,https://spca.org.sg/animal/tutu/,https://spca.org.sg/wp-content/uploads/2024/07/IMG-20240717-WA0069.jpg
