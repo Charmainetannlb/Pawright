@@ -135,7 +135,7 @@ var button = document.getElementById("Done");
         (obj.AgeValue == options.DOB) &&
         (options.Active == null || (obj.Active == options.Active)) &&
         (options.Calm == null || (obj.Calm == options.Calm)) &&
-        (obj.FoodMo == null || (obj.FoodMo == options.FoodMo)) && 
+        (options.FoodMo == null || (obj.FoodMo == options.FoodMo)) && 
         (options.Intelligent == null || (obj.Intelligent == options.Intelligent)) &&
         (options.Outgoing == null || (obj.Outgoing == options.Outgoing)) &&
         (options.Cat == null || (obj.Cat == options.Cat)) &&
