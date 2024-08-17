@@ -28,7 +28,7 @@ function collect() {
   var DOB = DOBInput ? DOBInput.value : null;
   var Active = ActiveInput ? ActiveInput.value : null;
   var Calm = CalmInput ? CalmInput.value : null;
-  var FoodMo = FoodMoInput ? FoodMoInput.value : "N";
+  var FoodMo = FoodMoInput ? FoodMoInput.value : null;
   var Intelligent = IntelligentInput ? IntelligentInput.value : null;
   var Outgoing = OutgoingInput ? OutgoingInput.value : null;
   var Cat = CatInput ? CatInput.value : null;
