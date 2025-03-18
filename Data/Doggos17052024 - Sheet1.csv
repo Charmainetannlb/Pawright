@@ -1,4 +1,6 @@
 Name,Gender,DOB,HBDApproved,Child,Cat,DogOther,Active,Calm,FoodMo,Intelligent,Outgoing,Holdingshel,Address,ImageLink
+Okami,F,1-Oct-2024,N,,,,,,N,,,ASD,https://asdsingapore.com/adopt/okami,https://asdsingapore.com/assets/images/adopts/okami-20250303134522.jpg
+Nihon,M,1-Oct-2024,N,,,,,Y,N,,N,ASD,https://asdsingapore.com/adopt/nihon,https://asdsingapore.com/assets/images/adopts/nihon-20250303134200.jpg
 Rhys,M,1-Jul-2024,N,,,Y,,Y,Y,,Y,ASD,https://asdsingapore.com/adopt/rhys,https://asdsingapore.com/assets/images/adopts/rhys-20250223154628.jpg
 Hondo,M,1-Oct-2021,Y,,,Y,Y,,Y,,,ASD,https://asdsingapore.com/adopt/hondo,https://asdsingapore.com/assets/images/adopts/hondo-20250223154350.jpg
 Spam,M,1-Jan-2024,Y,,,Y,,,Y,,,ASD,https://asdsingapore.com/adopt/spam,https://asdsingapore.com/assets/images/adopts/spam-20241124145441.jpg
@@ -6,7 +8,6 @@ Jam,F,1-Nov-2023,Y,,,,Y,,Y,,,ASD,https://asdsingapore.com/adopt/jam,https://asds
 Pai Ka,M,1-Oct-2016,Y,,,Y,Y,Y,N,,Y,ASD,https://asdsingapore.com/adopt/pai-ka,https://asdsingapore.com/assets/images/adopts/pai-ka-20241124145134.jpg
 Becky,F,1-Sep-2020,Y,,,,,,Y,,N,ASD,https://asdsingapore.com/adopt/becky,https://asdsingapore.com/assets/images/adopts/becky-20241117212934.jpg
 Cheetah,M,1-Oct-2016,N,,,Y,,Y,Y,,Y,ASD,https://asdsingapore.com/adopt/cheetah,https://asdsingapore.com/assets/images/adopts/cheetah-20241117213349.jpg
-Green,M,1-Oct-2018,Y,,Y,Y,,Y,N,,N,ASD,https://asdsingapore.com/adopt/green,https://asdsingapore.com/assets/images/adopts/green-20241120194752.jpg
 Zendaya,F,1-Nov-2017,Y,,,,,Y,N,,,ASD,https://asdsingapore.com/adopt/zendaya,https://asdsingapore.com/assets/images/adopts/zendaya-20241120220708.jpg
 YiDong,M,1-Dec-2021,N,,,Y,Y,,N,,Y,ASD,https://asdsingapore.com/adopt/yidong,https://asdsingapore.com/assets/images/adopts/yidong-20241120220930.jpg
 Gellert,M,1-Jan-2022,Y,N,,Y,Y,,Y,,,ASD,https://asdsingapore.com/adopt/gellert,https://asdsingapore.com/assets/images/adopts/gellert-20241104164035.jpeg
@@ -60,7 +61,6 @@ Russet,M,1-Nov-2022,Y,,,,Y,,Y,,Y,ASD,https://asdsingapore.com/adopt/russet,https
 Selaphiel,M,1-Dec-2020,Y,N,,,,Y,N,,Y,ASD,https://asdsingapore.com/adopt/selaphiel,https://asdsingapore.com/assets/images/adopts/selaphiel-20231008155617.jpeg
 Elly,F,1-Feb-2014,N,,,,,,N,,,ASD,https://asdsingapore.com/adopt/elly,https://asdsingapore.com/assets/images/adopts/elly-20220327155944.jpg
 Sakae,M,1-Mar-2016,Y,,,,,,N,,,ASD,https://asdsingapore.com/adopt/sakae,https://asdsingapore.com/assets/images/adopts/sakae-20220327160017.jpg
-Lucky B,M,1-Jun-2014,N,,,Y,Y,,N,,Y,ASD,https://asdsingapore.com/adopt/lucky-b,https://asdsingapore.com/assets/images/adopts/lucky-b-20220327145734.jpg
 Clovis,M,1-Feb-2016,Y,,,,,,N,,,ASD,https://asdsingapore.com/adopt/clovis,https://asdsingapore.com/assets/images/adopts/clovis-20220119085943.jpg
 Ursus,M,1-Jan-2020,N,,,,Y,Y,Y,,Y,ASD,https://asdsingapore.com/adopt/ursus,https://asdsingapore.com/assets/images/adopts/ursus-20220610121339.png
 Abby,F,1-Jan-2019,Y,,,,,,N,,,SOSD,https://sosd.org.sg/wpcproduct/abby/?form=adopt,https://sosd.org.sg/wp-content/uploads/2024/05/Abby-e1716517925982.jpg
@@ -141,7 +141,7 @@ Leia,F,1-Jul-2019,Y,,,,,,N,,,SPCA,https://spca.org.sg/animal/leia/,https://spca.
 Lekar,M,1-Jan-2015,Y,,,,,,Y,,,SPCA,https://spca.org.sg/animal/lekar/,https://spca.org.sg/wp-content/uploads/2025/02/IMG_8639-scaled.jpg
 Macho,M,1-Apr-2018,N,,,,Y,,Y,,,SPCA,https://spca.org.sg/animal/macho/,https://spca.org.sg/wp-content/uploads/2022/12/Macho_1.jpg
 Maple,F,1-Mar-2024,N,,,Y,,,N,,,SPCA,https://spca.org.sg/animal/maple/,https://spca.org.sg/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-11-at-3.37.44-PM-1.jpeg
-Nana,F,1-Mar-2018,Y,,,,,,N,,,SPCA,https://spca.org.sg/animal/nana/,https://spca.org.sg/wp-content/uploads/2024/03/WhatsApp-Image-2024-03-05-at-16.24.28_a1451cf2.jpg
+Milo,M,1-Oct-2019,Y,,,,Y,,Y,Y,Y,SPCA,https://spca.org.sg/animal/milo-3/,https://spca.org.sg/wp-content/uploads/2025/03/WhatsApp-Image-2025-03-11-at-12.08.06_4f323ba6.jpg
 Niko,M,1-Aug-2023,Y,,,,,,N,,,SPCA,https://spca.org.sg/animal/niko/,https://spca.org.sg/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-10-at-18.47.00_b2ac09d8.jpg
 Pancake,M,1-Mar-2012,N,,,Y,,,Y,Y,Y,SPCA,https://spca.org.sg/animal/pancake/,https://spca.org.sg/wp-content/uploads/2022/12/Pancake_1.jpg
 Peanut,M,1-Feb-2015,N,,,,,Y,N,,,SPCA,https://spca.org.sg/animal/peanut/,https://spca.org.sg/wp-content/uploads/2022/12/Peanut_1.jpg
@@ -149,6 +149,5 @@ Pickles,M,1-Dec-2022,Y,,,Y,,,N,,,SPCA,https://spca.org.sg/animal/pickles/,https:
 Rocky,M,1-Jul-2014,Y,N,,N,,Y,N,,Y,SPCA,https://spca.org.sg/animal/rocky-2/,https://spca.org.sg/wp-content/uploads/2023/05/DSF1292jpeg-scaled.jpg
 Scooby,M,1-Jun-2021,N,,,,Y,,Y,,,SPCA,https://spca.org.sg/animal/scooby-2/,https://spca.org.sg/wp-content/uploads/2024/06/IMG-20240527-WA0039.jpg
 Spike,M,1-Jul-2015,N,,,,,,N,,,SPCA,https://spca.org.sg/animal/spike/,https://spca.org.sg/wp-content/uploads/2022/12/Spike_1.jpg
-Tiff,F,1-Oct-2024,N,,,,,,N,,,SPCA,https://spca.org.sg/animal/tiff/,https://spca.org.sg/wp-content/uploads/2024/12/WhatsApp-Image-2024-12-26-at-13.57.24_65fdaa50.jpg
 Timmy,M,1-Aug-2020,Y,,,,,,N,,,SPCA,https://spca.org.sg/animal/timmy-2/,https://spca.org.sg/wp-content/uploads/2023/09/IMG-20230912-WA0022.jpg
 Tita,F,1-Aug-2020,N,,,,,,N,,Y,SPCA,https://spca.org.sg/animal/tita/,https://spca.org.sg/wp-content/uploads/2022/12/Tita_1.jpg
