@@ -1,10 +1,10 @@
 Name,Gender,DOB,HBDApproved,Child,Cat,DogOther,Active,Calm,FoodMo,Intelligent,Outgoing,Holdingshel,Address,ImageLink
+Bandit,M,1-May-2025,N,,Y,Y,Y,,Y,Y,,ASD,https://asdsingapore.com/adopt/bandit,https://asdsingapore.com/assets/images/adopts/bandit-20250714103458.jpg
 Seraphina,F,1-Jan-2019,Y,,,Y,,Y,Y,Y,,ASD,https://asdsingapore.com/adopt/seraphina,https://asdsingapore.com/assets/images/adopts/seraphina-20250502001918.jpg
 Jane,F,1-Jan-2016,Y,,,Y,,Y,N,,,ASD,https://asdsingapore.com/adopt/jane,https://asdsingapore.com/assets/images/adopts/jane-20250324181503.jpg
 Nala,F,1-Aug-2014,Y,,,,,Y,N,,,ASD,https://asdsingapore.com/adopt/nala,https://asdsingapore.com/assets/images/adopts/nala-20250319214339.jpg
 Okami,F,1-Oct-2024,N,,,,,,N,,,ASD,https://asdsingapore.com/adopt/okami,https://asdsingapore.com/assets/images/adopts/okami-20250303134522.jpg
 Nihon,M,1-Oct-2024,N,,,,,Y,N,,N,ASD,https://asdsingapore.com/adopt/nihon,https://asdsingapore.com/assets/images/adopts/nihon-20250303134200.jpg
-Rhys,M,1-Jul-2024,N,,,Y,,Y,Y,,Y,ASD,https://asdsingapore.com/adopt/rhys,https://asdsingapore.com/assets/images/adopts/rhys-20250223154628.jpg
 Hondo,M,1-Oct-2021,Y,,,Y,Y,,Y,,,ASD,https://asdsingapore.com/adopt/hondo,https://asdsingapore.com/assets/images/adopts/hondo-20250223154350.jpg
 Spam,M,1-Jan-2024,Y,,,Y,,,Y,,,ASD,https://asdsingapore.com/adopt/spam,https://asdsingapore.com/assets/images/adopts/spam-20241124145441.jpg
 Jam,F,1-Nov-2023,Y,,,,Y,,Y,,,ASD,https://asdsingapore.com/adopt/jam,https://asdsingapore.com/assets/images/adopts/jam-20241124145301.jpg
@@ -127,7 +127,6 @@ Zane,M,1-Jul-2016,N,,,,,,N,,,SOSD,https://sosd.org.sg/wpcproduct/zane/?form=adop
 Ace,M,1-Apr-2020,N,,,,,,Y,,Y,SPCA,https://spca.org.sg/animal/ace/,https://spca.org.sg/wp-content/uploads/2023/12/IMG-20231219-WA0025.jpg
 Argo,M,1-Aug-2020,N,,,,,,N,,Y,SPCA,https://spca.org.sg/animal/argo/,https://spca.org.sg/wp-content/uploads/2023/10/IMG-20231005-WA0031.jpg
 Bacon,M,1-Apr-2018,N,,,,,,N,,,SPCA,https://spca.org.sg/animal/bacon/,https://spca.org.sg/wp-content/uploads/2023/07/IMG-20230705-WA0020.jpg
-Baked Potato,F,1-Apr-2025,N,,,,Y,,N,,Y,SPCA,https://spca.org.sg/animal/bakedpotato/,https://spca.org.sg/wp-content/uploads/2025/06/IMG-20250609-WA0104.jpg
 Belle,F,1-Feb-2025,N,,,,,,N,,N,SPCA,https://spca.org.sg/animal/belle/,https://spca.org.sg/wp-content/uploads/2025/06/IMG-20250626-WA0021-scaled.jpg
 Bruno,M,15-Feb-2024,Y,,,,,,N,,,SPCA,https://spca.org.sg/animal/bruno-copy/,https://spca.org.sg/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-11-at-3.38.53-PM.jpeg
 Cashmere,M,1-Oct-2021,N,,,,Y,,N,,,SPCA,https://spca.org.sg/animal/cashmere/,https://spca.org.sg/wp-content/uploads/2023/12/Cashmere.png
@@ -140,15 +139,15 @@ Katy,F,1-Sep-2020,Y,,,N,Y,,N,,,SPCA,https://spca.org.sg/animal/katy/,https://spc
 Keiji,M,1-Jul-2016,N,,,,,,N,,,SPCA,https://spca.org.sg/animal/keiji/,https://spca.org.sg/wp-content/uploads/2022/12/Keiji_1.jpg
 Maple,F,1-Mar-2024,N,,,Y,,,N,,,SPCA,https://spca.org.sg/animal/maple/,https://spca.org.sg/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-11-at-3.37.44-PM-1.jpeg
 Mashed,F,1-Apr-2025,N,,,,,Y,N,Y,,SPCA,https://spca.org.sg/animal/mashed/,https://spca.org.sg/wp-content/uploads/2025/06/IMG-20250609-WA0075.jpg
+Max,M,1-Jul-2018,Y,,,,,Y,N,Y,,SPCA,https://spca.org.sg/animal/max-2/,https://spca.org.sg/wp-content/uploads/2025/07/IMG-20250619-WA0013.jpg
 Niko,M,1-Aug-2023,Y,,,,,,N,,,SPCA,https://spca.org.sg/animal/niko/,https://spca.org.sg/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-10-at-18.47.00_b2ac09d8.jpg
+Oreo,M,1-Jul-2025,Y,,,,N,Y,N,,,SPCA,https://spca.org.sg/animal/oreo-4/,https://spca.org.sg/wp-content/uploads/2025/07/IMG-20250516-WA0001.jpg
 Pancake,M,1-Mar-2012,N,,,Y,,,Y,Y,Y,SPCA,https://spca.org.sg/animal/pancake/,https://spca.org.sg/wp-content/uploads/2022/12/Pancake_1.jpg
 Pattie,F,1-Jan-2013,Y,,,,N,Y,Y,,,SPCA,https://spca.org.sg/animal/patty/,https://spca.org.sg/wp-content/uploads/2025/04/IMG-20250404-WA0009.jpg
 Peanut,M,1-Feb-2015,N,,,,,Y,N,,,SPCA,https://spca.org.sg/animal/peanut/,https://spca.org.sg/wp-content/uploads/2022/12/Peanut_1.jpg
 Pickles,M,1-Dec-2022,Y,,,Y,,,N,,,SPCA,https://spca.org.sg/animal/pickles/,https://spca.org.sg/wp-content/uploads/2023/12/20.jpg
-Potato Chips,F,15-Apr-2025,N,,,,,Y,N,,Y,SPCA,https://spca.org.sg/animal/potato-chips/,https://spca.org.sg/wp-content/uploads/2025/06/IMG-20250625-WA0040.jpg
 Rocky,M,1-Jul-2014,Y,N,,N,,Y,N,,Y,SPCA,https://spca.org.sg/animal/rocky-2/,https://spca.org.sg/wp-content/uploads/2023/05/DSF1292jpeg-scaled.jpg
 Scooby,M,1-Jun-2021,N,,,,Y,,Y,,,SPCA,https://spca.org.sg/animal/scooby-2/,https://spca.org.sg/wp-content/uploads/2024/06/IMG-20240527-WA0039.jpg
 Tatertots,M,15-Apr-2025,N,,,,Y,Y,N,,Y,SPCA,https://spca.org.sg/animal/tatertots/,https://spca.org.sg/wp-content/uploads/2025/06/IMG-20250625-WA0043.jpg
 Tita,F,1-Aug-2020,N,,,,,,N,,Y,SPCA,https://spca.org.sg/animal/tita/,https://spca.org.sg/wp-content/uploads/2022/12/Tita_1.jpg
 Wedges,F,1-Apr-2025,N,,,,Y,,N,,Y,SPCA,https://spca.org.sg/animal/wedges/,https://spca.org.sg/wp-content/uploads/2025/06/IMG-20250609-WA0065.jpg
-Wolfie,M,1-Feb-2025,N,,,,,Y,N,,N,SPCA,https://spca.org.sg/animal/wolfie-2/,https://spca.org.sg/wp-content/uploads/2025/06/IMG-20250626-WA0022-scaled.jpg
