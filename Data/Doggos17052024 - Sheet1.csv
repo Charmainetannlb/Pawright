@@ -1,6 +1,5 @@
 Name,Gender,DOB,HBDApproved,Child,Cat,DogOther,Active,Calm,FoodMo,Intelligent,Outgoing,Holdingshel,Address,ImageLink
 Bandit,M,1-May-2025,N,,Y,Y,Y,,Y,Y,,ASD,https://asdsingapore.com/adopt/bandit,https://asdsingapore.com/assets/images/adopts/bandit-20250714103458.jpg
-Seraphina,F,1-Jan-2019,Y,,,Y,,Y,Y,Y,,ASD,https://asdsingapore.com/adopt/seraphina,https://asdsingapore.com/assets/images/adopts/seraphina-20250502001918.jpg
 Jane,F,1-Jan-2016,Y,,,Y,,Y,N,,,ASD,https://asdsingapore.com/adopt/jane,https://asdsingapore.com/assets/images/adopts/jane-20250324181503.jpg
 Nala,F,1-Aug-2014,Y,,,,,Y,N,,,ASD,https://asdsingapore.com/adopt/nala,https://asdsingapore.com/assets/images/adopts/nala-20250319214339.jpg
 Okami,F,1-Oct-2024,N,,,,,,N,,,ASD,https://asdsingapore.com/adopt/okami,https://asdsingapore.com/assets/images/adopts/okami-20250303134522.jpg
@@ -87,7 +86,6 @@ Frodo,M,12-Nov-2017,Y,,,,,,N,,,SOSD,https://sosd.org.sg/wpcproduct/frodo/?form=a
 Fuji,M,23-Dec-2014,Y,,,,,,N,,N,SOSD,https://sosd.org.sg/wpcproduct/fuji/?form=adopt,https://sosd.org.sg/wp-content/uploads/2024/06/Fuji-e1718259488991.jpg
 Galaxy,F,5-Jul-2014,Y,,,,,,N,,Y,SOSD,https://sosd.org.sg/wpcproduct/galaxy/?form=adopt,https://sosd.org.sg/wp-content/uploads/2014/11/NoImage.jpg
 Garcia,F,5-Jul-2014,Y,,,,,,N,,Y,SOSD,https://sosd.org.sg/wpcproduct/garcia/?form=adopt,https://sosd.org.sg/wp-content/uploads/2014/11/NoImage.jpg
-Holiday,F,9-Feb-2024,N,,,,,Y,N,Y,,SOSD,https://sosd.org.sg/wpcproduct/holiday/?form=adopt,https://sosd.org.sg/wp-content/uploads/2025/05/Holiday-scaled-e1746070070963.jpg
 Jacky,M,1-Jul-2013,N,,,Y,,,N,,,SOSD,https://sosd.org.sg/wpcproduct/jacky/?form=adopt,https://sosd.org.sg/wp-content/uploads/2020/08/Jacky-e1598281190343.jpg
 Kata,F,13-Dec-2022,Y,,,,,,N,Y,Y,SOSD,https://sosd.org.sg/wpcproduct/kata/?form=adopt,https://sosd.org.sg/wp-content/uploads/2025/03/Kata-scaled-e1743047344158.jpg
 Kika,F,24-Dec-2016,Y,,,,,,N,,,SOSD,https://sosd.org.sg/wpcproduct/kika/?form=adopt,https://sosd.org.sg/wp-content/uploads/2024/01/Kika-e1706666530617.jpg
@@ -99,13 +97,10 @@ Lucki,M,1-May-2018,N,,,,Y,,N,,Y,SOSD,https://sosd.org.sg/wpcproduct/lucki/?form=
 Mandy,F,1-Jan-2019,Y,,,,,Y,N,,,SOSD,https://sosd.org.sg/wpcproduct/mandy/?form=adopt,https://sosd.org.sg/wp-content/uploads/2025/06/Miandee-e1750261161290.jpg
 Marsh,M,1-Jan-2017,N,,,Y,,,Y,,,SOSD,https://sosd.org.sg/wpcproduct/marsh/?form=adopt,https://sosd.org.sg/wp-content/uploads/2023/12/Marsh-e1703570862805.jpg
 Nadia,F,22-Oct-2018,Y,,,Y,,,N,,,SOSD,https://sosd.org.sg/wpcproduct/nadia/?form=adopt,https://sosd.org.sg/wp-content/uploads/2024/11/Nadia-e1730708702325.jpg
-Odin,M,29-Aug-2019,N,,,,,Y,Y,,,SOSD,https://sosd.org.sg/wpcproduct/odin/?form=adopt,https://sosd.org.sg/wp-content/uploads/2023/09/Odin-e1695465519640.jpg
 Orrie,M,10-Nov-2019,Y,,,,,,N,,,SOSD,https://sosd.org.sg/wpcproduct/orrie/?form=adopt,https://sosd.org.sg/wp-content/uploads/2024/08/Orrie-e1722601110953.jpg
 Oscar,M,24-Sep-2013,Y,,,Y,Y,Y,Y,,Y,SOSD,https://sosd.org.sg/wpcproduct/oscar/?form=adopt,https://sosd.org.sg/wp-content/uploads/2025/03/Oscar-e1741179380863.jpg
 Patrick,M,2-Jan-2019,Y,N,,Y,,,Y,,Y,SOSD,https://sosd.org.sg/wpcproduct/patrick/?form=adopt,https://sosd.org.sg/wp-content/uploads/2022/06/Patrick-e1654713768968.jpg
 Pepperoni,F,26-Jun-2015,Y,,,,,,N,,,SOSD,https://sosd.org.sg/wpcproduct/pepperoni/?form=adopt,https://sosd.org.sg/wp-content/uploads/2024/09/Pepperoni-scaled-e1725286152829.jpg
-Pixie,F,1-Dec-2015,Y,,,,,,Y,,,SOSD,https://sosd.org.sg/wpcproduct/pixie/?form=adopt,https://sosd.org.sg/wp-content/uploads/2023/04/Pixie-e1681648993185.jpg
-Ranger,M,17-May-2021,Y,,,Y,,,N,,,SOSD,https://sosd.org.sg/wpcproduct/ranger/?form=adopt,https://sosd.org.sg/wp-content/uploads/2024/03/Ranger-e1709739957684.jpg
 Redford,M,22-Sep-2017,N,,,,,,N,,,SOSD,https://sosd.org.sg/wpcproduct/redford/?form=adopt,https://sosd.org.sg/wp-content/uploads/2023/12/Redford-e1703572005330.jpg
 Rollie,M,26-Oct-2021,Y,Y,,,,Y,N,,,SOSD,https://sosd.org.sg/wpcproduct/rollie/?form=adopt,https://sosd.org.sg/wp-content/uploads/2025/03/Rollie-e1743043733398.jpg
 Rooney,M,2-Oct-2020,Y,,,,,,N,,Y,SOSD,https://sosd.org.sg/wpcproduct/rooney/?form=adopt,https://sosd.org.sg/wp-content/uploads/2023/12/Rooney-e1703485083288.jpg
@@ -114,7 +109,6 @@ Sneezy,M,1-Dec-2017,N,,,,,,Y,,,SOSD,https://sosd.org.sg/wpcproduct/sneezy/?form=
 Snuggles,M,1-Jan-2022,Y,,,N,Y,N,Y,,Y,SOSD,https://sosd.org.sg/wpcproduct/snuggles/?form=adopt,https://sosd.org.sg/wp-content/uploads/2025/07/Snuggles-e1751566129857.jpg
 Spot,M,29-Jan-2022,Y,,,Y,,,N,,,SOSD,https://sosd.org.sg/wpcproduct/spot/?form=adopt,https://sosd.org.sg/wp-content/uploads/2025/02/Spot-e1739686350424.jpg
 Snoopy,M,15-May-2019,Y,,,,,,N,,,SOSD,https://sosd.org.sg/wpcproduct/snoopy/?form=adopt,https://sosd.org.sg/wp-content/uploads/2024/03/Snoopy-e1709739753979.jpg
-Stevie,M,31-Mar-2015,Y,,,,,,N,,,SOSD,https://sosd.org.sg/wpcproduct/stevie/?form=adopt,https://sosd.org.sg/wp-content/uploads/2023/05/Stevie-e1684036254606.jpg
 Tales,M,1-Dec-2015,Y,,,,,,Y,,,SOSD,https://sosd.org.sg/wpcproduct/tales/?form=adopt,https://sosd.org.sg/wp-content/uploads/2023/12/Tales-e1703572208260.jpg
 Tally,F,1-Jan-2016,Y,,,,,,N,Y,,SOSD,https://sosd.org.sg/wpcproduct/tally/?form=adopt,https://sosd.org.sg/wp-content/uploads/2021/01/Tally-e1611122106506.jpg
 Tami,F,3-Oct-2013,Y,,,,,,N,,,SOSD,https://sosd.org.sg/wpcproduct/tami/?form=adopt,https://sosd.org.sg/wp-content/uploads/2022/06/Tami-e1654716524995.jpg
@@ -122,7 +116,6 @@ Tanya,F,1-Dec-2016,Y,,,,,Y,Y,,,SOSD,https://sosd.org.sg/wpcproduct/tanya/?form=a
 Thumbelina,F,1-Mar-2018,Y,N,,,,,N,,,SOSD,https://sosd.org.sg/wpcproduct/thumbelina/?form=adopt,https://sosd.org.sg/wp-content/uploads/2022/10/Thumbelina-e1665205725709.jpg
 Tripod,M,1-Dec-2017,Y,,,,N,Y,N,,,SOSD,https://sosd.org.sg/wpcproduct/tripod/?form=adopt,https://sosd.org.sg/wp-content/uploads/2025/06/Tripod-e1750260987100.jpg
 Wang Wang,M,22-Oct-2016,N,,,Y,,,N,,Y,SOSD,https://sosd.org.sg/wpcproduct/wang-wang/?form=adopt,https://sosd.org.sg/wp-content/uploads/2025/02/WangWang-e1739686441192.jpg
-Velvet,F,17-Oct-2016,Y,,,,,,N,,,SOSD,https://sosd.org.sg/wpcproduct/velvet/?form=adopt,https://sosd.org.sg/wp-content/uploads/2024/01/Velvet-e1706666735753.jpg
 Zane,M,1-Jul-2016,N,,,,,,N,,,SOSD,https://sosd.org.sg/wpcproduct/zane/?form=adopt,https://sosd.org.sg/wp-content/uploads/2020/08/Zane-e1598281735440.jpg
 Ace,M,1-Apr-2020,N,,,,,,Y,,Y,SPCA,https://spca.org.sg/animal/ace/,https://spca.org.sg/wp-content/uploads/2023/12/IMG-20231219-WA0025.jpg
 Argo,M,1-Aug-2020,N,,,,,,N,,Y,SPCA,https://spca.org.sg/animal/argo/,https://spca.org.sg/wp-content/uploads/2023/10/IMG-20231005-WA0031.jpg
@@ -131,6 +124,7 @@ Belle,F,1-Feb-2025,N,,,,,,N,,N,SPCA,https://spca.org.sg/animal/belle/,https://sp
 Bruno,M,15-Feb-2024,Y,,,,,,N,,,SPCA,https://spca.org.sg/animal/bruno-copy/,https://spca.org.sg/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-11-at-3.38.53-PM.jpeg
 Cashmere,M,1-Oct-2021,N,,,,Y,,N,,,SPCA,https://spca.org.sg/animal/cashmere/,https://spca.org.sg/wp-content/uploads/2023/12/Cashmere.png
 Cliff,M,1-Sep-2013,N,,,,Y,,N,,,SPCA,https://spca.org.sg/animal/cliff/,https://spca.org.sg/wp-content/uploads/2022/12/Cliff_1.jpg
+Fishball,M,1-Jul-2010,Y,,,,,Y,N,,,SPCA,https://spca.org.sg/animal/fishball/,https://spca.org.sg/wp-content/uploads/2025/07/IMG-20250724-WA0040.jpg
 Gnocchi,M,1-Dec-2022,Y,,,Y,,,N,,,SPCA,https://spca.org.sg/animal/gnocchi/,https://spca.org.sg/wp-content/uploads/2023/12/Gnicchi.jpg
 Halia,F,1-Feb-2018,Y,,,,,Y,N,,,SPCA,https://spca.org.sg/animal/halia/,https://spca.org.sg/wp-content/uploads/2025/04/WhatsApp-Image-2025-04-28-at-17.07.21_5afac776.jpg
 Hammie,M,1-Apr-2018,N,,,,,,N,,,SPCA,https://spca.org.sg/animal/hammie/,https://spca.org.sg/wp-content/uploads/2023/07/IMG-20230705-WA0022.jpg
@@ -138,16 +132,12 @@ Hazel,F,1-May-2015,N,,,,,Y,N,,,SPCA,https://spca.org.sg/animal/hazel/,https://sp
 Katy,F,1-Sep-2020,Y,,,N,Y,,N,,,SPCA,https://spca.org.sg/animal/katy/,https://spca.org.sg/wp-content/uploads/2025/05/IMG-20250508-WA0006.jpg
 Keiji,M,1-Jul-2016,N,,,,,,N,,,SPCA,https://spca.org.sg/animal/keiji/,https://spca.org.sg/wp-content/uploads/2022/12/Keiji_1.jpg
 Maple,F,1-Mar-2024,N,,,Y,,,N,,,SPCA,https://spca.org.sg/animal/maple/,https://spca.org.sg/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-11-at-3.37.44-PM-1.jpeg
-Mashed,F,1-Apr-2025,N,,,,,Y,N,Y,,SPCA,https://spca.org.sg/animal/mashed/,https://spca.org.sg/wp-content/uploads/2025/06/IMG-20250609-WA0075.jpg
-Max,M,1-Jul-2018,Y,,,,,Y,N,Y,,SPCA,https://spca.org.sg/animal/max-2/,https://spca.org.sg/wp-content/uploads/2025/07/IMG-20250619-WA0013.jpg
 Niko,M,1-Aug-2023,Y,,,,,,N,,,SPCA,https://spca.org.sg/animal/niko/,https://spca.org.sg/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-10-at-18.47.00_b2ac09d8.jpg
-Oreo,M,1-Jul-2025,Y,,,,N,Y,N,,,SPCA,https://spca.org.sg/animal/oreo-4/,https://spca.org.sg/wp-content/uploads/2025/07/IMG-20250516-WA0001.jpg
 Pancake,M,1-Mar-2012,N,,,Y,,,Y,Y,Y,SPCA,https://spca.org.sg/animal/pancake/,https://spca.org.sg/wp-content/uploads/2022/12/Pancake_1.jpg
 Pattie,F,1-Jan-2013,Y,,,,N,Y,Y,,,SPCA,https://spca.org.sg/animal/patty/,https://spca.org.sg/wp-content/uploads/2025/04/IMG-20250404-WA0009.jpg
 Peanut,M,1-Feb-2015,N,,,,,Y,N,,,SPCA,https://spca.org.sg/animal/peanut/,https://spca.org.sg/wp-content/uploads/2022/12/Peanut_1.jpg
 Pickles,M,1-Dec-2022,Y,,,Y,,,N,,,SPCA,https://spca.org.sg/animal/pickles/,https://spca.org.sg/wp-content/uploads/2023/12/20.jpg
 Rocky,M,1-Jul-2014,Y,N,,N,,Y,N,,Y,SPCA,https://spca.org.sg/animal/rocky-2/,https://spca.org.sg/wp-content/uploads/2023/05/DSF1292jpeg-scaled.jpg
 Scooby,M,1-Jun-2021,N,,,,Y,,Y,,,SPCA,https://spca.org.sg/animal/scooby-2/,https://spca.org.sg/wp-content/uploads/2024/06/IMG-20240527-WA0039.jpg
-Tatertots,M,15-Apr-2025,N,,,,Y,Y,N,,Y,SPCA,https://spca.org.sg/animal/tatertots/,https://spca.org.sg/wp-content/uploads/2025/06/IMG-20250625-WA0043.jpg
+Squinty,M,1-May-2018,N,,,,N,Y,N,,,SPCA,https://spca.org.sg/animal/squinty/,https://spca.org.sg/wp-content/uploads/2025/05/CAL03623-scaled.jpg
 Tita,F,1-Aug-2020,N,,,,,,N,,Y,SPCA,https://spca.org.sg/animal/tita/,https://spca.org.sg/wp-content/uploads/2022/12/Tita_1.jpg
-Wedges,F,1-Apr-2025,N,,,,Y,,N,,Y,SPCA,https://spca.org.sg/animal/wedges/,https://spca.org.sg/wp-content/uploads/2025/06/IMG-20250609-WA0065.jpg
