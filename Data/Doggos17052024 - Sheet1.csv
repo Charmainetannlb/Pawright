@@ -70,7 +70,7 @@ Sakae,M,1-Mar-2016,Y,,,,,,N,,,ASD,https://asdsingapore.com/adopt/sakae,https://a
 Clovis,M,1-Feb-2016,Y,,,,,,N,,,ASD,https://asdsingapore.com/adopt/clovis,https://asdsingapore.com/assets/images/adopts/clovis-20220119085943.jpg
 Abby,F,1-Jan-2019,Y,Y,,Y,,,N,,,SOSD,https://www.sosd.org.sg/abby/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Abby3-e1732540424628-300x192.jpg
 Ah Leng,F,1-Sep-2014,Y,Y,Y,Y,N,Y,N,,,SOSD,https://www.sosd.org.sg/ah-leng/,https://www.sosd.org.sg/wp-content/uploads/2025/10/AhLeng-e1761844250145-300x193.jpg
-Alistaire,M,23-Mar-2016,N,N,Y,Y,,,N,,,SOSD,https://www.sosd.org.sg/alistaire-2/,https://www.sosd.org.sg/wp-content/uploads/2025/10/Alistaire-e1761570839248-300x205.jpg
+Alistaire,M,23-Mar-2016,N,N,Y,Y,,Y,Y,,N,SOSD,https://www.sosd.org.sg/alistaire-2/,https://www.sosd.org.sg/wp-content/uploads/2025/10/Alistaire-e1761570839248-300x205.jpg
 Amber,F,1-Jan-2019,Y,Y,,,,,N,,,SOSD,https://www.sosd.org.sg/amber/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Amber-e1728200967968-1-300x192.jpg
 Benji,M,1-Apr-2011,Y,N,N,N,,,Y,,,SOSD,https://www.sosd.org.sg/benji/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Benji-e1761573813474-300x206.jpg
 Benny,M,1-Jun-2025,Y,Y,Y,Y,,Y,N,,N,SOSD,https://www.sosd.org.sg/benny/,https://www.sosd.org.sg/wp-content/uploads/2025/10/Benny-e1761526955446-300x178.jpg
@@ -130,7 +130,6 @@ Pretzels,F,1-Dec-2015,Y,,,Y,,,Y,,,SOSD,https://www.sosd.org.sg/pretzels/,https:/
 Rooney,M,2-Oct-2020,Y,N,,N,,,N,,Y,SOSD,https://www.sosd.org.sg/rooney/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Rooney-e1761575126461-300x189.jpg
 Rosalie,F,8-Jun-2020,Y,,,Y,,Y,Y,,,SOSD,https://www.sosd.org.sg/rosalie/,https://www.sosd.org.sg/wp-content/uploads/2025/10/Rosalie-e1761524996860-300x219.jpg
 Scrabby,M,1-Dec-2016,Y,,Y,Y,N,Y,Y,,,SOSD,https://www.sosd.org.sg/scrabby/,https://www.sosd.org.sg/wp-content/uploads/2025/10/Scrabby-e1761570518318-300x216.jpg
-Sinbad,M,12-Dec-2017,N,,Y,Y,,,N,,Y,SOSD,https://www.sosd.org.sg/sinbad/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Sinbad-e1761572807759-300x191.jpg
 Sneezy,M,1-Dec-2017,N,N,,,,,Y,,,SOSD,https://www.sosd.org.sg/sneezy/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Sneezy-e1637225495370-300x192.jpg
 Snoopy,M,15-May-2019,Y,N,N,N,,,N,,,SOSD,https://www.sosd.org.sg/snoopy/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Snoopy-e1761574216198-300x181.jpg
 Tales,M,1-Dec-2015,Y,N,Y,Y,,,Y,,,SOSD,https://www.sosd.org.sg/tales/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Tales-e1761571724790-300x187.jpg
@@ -163,7 +162,6 @@ Rocky,M,1-Jul-2014,Y,N,,N,,Y,N,,Y,SPCA,https://spca.org.sg/animal/rocky-2/,https
 Scooby,M,1-Jun-2021,N,,,,Y,,Y,,,SPCA,https://spca.org.sg/animal/scooby-2/,https://spca.org.sg/wp-content/uploads/2024/06/IMG-20240527-WA0039.jpg
 Squinty,M,1-May-2018,N,,,,N,Y,N,,,SPCA,https://spca.org.sg/animal/squinty/,https://spca.org.sg/wp-content/uploads/2025/05/CAL03623-scaled.jpg
 Tita,F,1-Aug-2020,N,,,,,,N,,Y,SPCA,https://spca.org.sg/animal/tita/,https://spca.org.sg/wp-content/uploads/2022/12/Tita_1.jpg
-Uncle Toh,M,1-May-2015,Y,,,,,Y,Y,,,SPCA,https://spca.org.sg/animal/uncle-toh/,https://spca.org.sg/wp-content/uploads/2025/08/IMG-20250821-WA0013.jpg
 Vonita,F,1-Mar-2015,N,,,,,Y,N,,,SPCA,https://spca.org.sg/animal/vonita/,https://spca.org.sg/wp-content/uploads/2025/06/CAL03320-scaled.jpg
 Ace Blessing,M,6-Jul-2023,Y,Y,,Y,,,N,,,Mercylight,https://mercylight.org.sg/adopt-a-blessing/adopt-a-gentleman-blessing/ace-blessing/,https://mercylight.org.sg/wp-content/uploads/2025/05/AceCrop3-370x350.jpg
 Amber Blessing,F,13-Nov-2018,Y,,,Y,,,N,Y,,Mercylight,https://mercylight.org.sg/adopt-a-blessing/adopt-a-lady-blessing/amber-blessing/,https://mercylight.org.sg/wp-content/uploads/2025/09/AmberCrop.jpg
