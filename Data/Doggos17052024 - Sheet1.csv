@@ -1,4 +1,6 @@
 Name,Gender,DOB,HBDApproved,Child,Cat,DogOther,Active,Calm,FoodMo,Intelligent,Outgoing,Holdingshel,Address,ImageLink
+Casper,M,1-Jan-2015,Y,Y,,Y,Y,,N,,Y,ASD,https://asdsingapore.com/adopt/casper,https://asdsingapore.com/assets/images/adopts/casper-20251121132816.jpg
+Kitano,M,1-Feb-2025,N,,Y,Y,Y,N,Y,,Y,ASD,https://asdsingapore.com/adopt/kitano,https://asdsingapore.com/assets/images/adopts/kitano-20251121110034.jpg
 Charcoal,M,1-Nov-2017,Y,,,Y,,Y,N,,Y,ASD,https://asdsingapore.com/adopt/charcoal,https://asdsingapore.com/assets/images/adopts/charcoal-20251101204056.jpg
 Chinook,M,1-Jul-2019,Y,,,,,Y,N,,N,ASD,https://asdsingapore.com/adopt/chinook,https://asdsingapore.com/assets/images/adopts/chinook-20251025125804.jpg
 Hua Hua,F,1-Nov-2017,Y,,,Y,Y,Y,Y,,Y,ASD,https://asdsingapore.com/adopt/hua-hua,https://asdsingapore.com/assets/images/adopts/hua-hua-20251101232201.jpg
@@ -49,7 +51,6 @@ Mooncake,M,1-Sep-2021,Y,,Y,Y,,,Y,,,ASD,https://asdsingapore.com/adopt/mooncake,h
 Tam,M,1-Feb-2013,N,,,Y,,Y,Y,,Y,ASD,https://asdsingapore.com/adopt/tam,https://asdsingapore.com/assets/images/adopts/tam-20220327145548.jpg
 Marley,M,1-Mar-2017,N,,,,Y,,Y,,Y,ASD,https://asdsingapore.com/adopt/marley,https://asdsingapore.com/assets/images/adopts/marley-20230125183048.jpg
 Fin,M,1-Jun-2017,N,,,,Y,,N,,Y,ASD,https://asdsingapore.com/adopt/fin,https://asdsingapore.com/assets/images/adopts/fin-20220327150217.jpg
-Apache,M,1-Apr-2020,N,,,Y,,,N,,Y,ASD,https://asdsingapore.com/adopt/apache,https://asdsingapore.com/assets/images/adopts/apache-20231008155956.jpeg
 Gonzo,M,1-Jun-2019,N,Y,,Y,,Y,Y,,,ASD,https://asdsingapore.com/adopt/gonzo,https://asdsingapore.com/assets/images/adopts/gonzo-20230125173427.jpg
 Jasper,M,1-Oct-2015,Y,,,,,,N,Y,,ASD,https://asdsingapore.com/adopt/jasper,https://asdsingapore.com/assets/images/adopts/jasper-20220327153528.jpg
 Sake,F,1-Aug-2020,Y,,,Y,,,N,,Y,ASD,https://asdsingapore.com/adopt/sake,https://asdsingapore.com/assets/images/adopts/sake-20220327155458.jpg
@@ -70,7 +71,7 @@ Sakae,M,1-Mar-2016,Y,,,,,,N,,,ASD,https://asdsingapore.com/adopt/sakae,https://a
 Clovis,M,1-Feb-2016,Y,,,,,,N,,,ASD,https://asdsingapore.com/adopt/clovis,https://asdsingapore.com/assets/images/adopts/clovis-20220119085943.jpg
 Abby,F,1-Jan-2019,Y,Y,,Y,,,N,,,SOSD,https://www.sosd.org.sg/abby/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Abby3-e1732540424628-300x192.jpg
 Ah Leng,F,1-Sep-2014,Y,Y,Y,Y,N,Y,N,,,SOSD,https://www.sosd.org.sg/ah-leng/,https://www.sosd.org.sg/wp-content/uploads/2025/10/AhLeng-e1761844250145-300x193.jpg
-Alistaire,M,23-Mar-2016,N,N,Y,Y,,Y,Y,,N,SOSD,https://www.sosd.org.sg/alistaire-2/,https://www.sosd.org.sg/wp-content/uploads/2025/10/Alistaire-e1761570839248-300x205.jpg
+Alistaire,M,23-Mar-2016,N,N,Y,Y,,Y,Y,,N,SOSD,https://www.sosd.org.sg/alistaire/,https://www.sosd.org.sg/wp-content/uploads/2025/10/Alistaire-e1761570839248-300x205.jpg
 Amber,F,1-Jan-2019,Y,Y,,,,,N,,,SOSD,https://www.sosd.org.sg/amber/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Amber-e1728200967968-1-300x192.jpg
 Benji,M,1-Apr-2011,Y,N,N,N,,,Y,,,SOSD,https://www.sosd.org.sg/benji/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Benji-e1761573813474-300x206.jpg
 Benny,M,1-Jun-2025,Y,Y,Y,Y,,Y,N,,N,SOSD,https://www.sosd.org.sg/benny/,https://www.sosd.org.sg/wp-content/uploads/2025/10/Benny-e1761526955446-300x178.jpg
