@@ -20,7 +20,6 @@ Chinook,M,1-Jul-2019,Y,,,,,Y,N,,N,ASD,https://asdsingapore.com/adopt/chinook,htt
 Mini,M,1-Nov-2017,Y,,,Y,Y,Y,N,Y,N,ASD,https://asdsingapore.com/adopt/mini,https://asdsingapore.com/assets/images/adopts/mini-20251101232531.jpg
 Tauhuey,F,1-Oct-2019,Y,,,,,,N,,N,ASD,https://asdsingapore.com/adopt/tauhuey,https://asdsingapore.com/assets/images/adopts/tauhuey-20251020225154.jpg
 Yoyo,M,1-Dec-2019,N,,,,Y,,N,,Y,ASD,https://asdsingapore.com/adopt/yoyo,https://asdsingapore.com/assets/images/adopts/yoyo-20251005222325.jpg
-Yukee,F,1-Dec-2016,Y,,,N,,Y,N,,,ASD,https://asdsingapore.com/adopt/yukee,https://asdsingapore.com/assets/images/adopts/yukee-20250917230338.jpg
 Atlas,M,1-Nov-2017,Y,,,,,Y,Y,,Y,ASD,https://asdsingapore.com/adopt/atlas,https://asdsingapore.com/assets/images/adopts/atlas-20250823071241.jpg
 Jane,F,1-Jan-2016,Y,,,Y,,Y,N,,,ASD,https://asdsingapore.com/adopt/jane,https://asdsingapore.com/assets/images/adopts/jane-20250324181503.jpg
 Nala,F,1-Aug-2014,Y,,,,,Y,N,,,ASD,https://asdsingapore.com/adopt/nala,https://asdsingapore.com/assets/images/adopts/nala-20250319214339.jpg
@@ -90,6 +89,7 @@ Britney,F,30-Oct-2019,N,,,,,,Y,,N,SOSD,https://www.sosd.org.sg/britney/,https://
 Buffy,F,1-Jan-2016,N,,,Y,,,N,,Y,SOSD,https://www.sosd.org.sg/buffy/,https://www.sosd.org.sg/wp-content/uploads/2025/10/Buffy-e1761527176129-300x241.jpg
 Buttercup,F,1-Nov-2012,Y,Y,,,,Y,Y,,Y,SOSD,https://www.sosd.org.sg/buttercup/,https://www.sosd.org.sg/wp-content/uploads/2025/10/Buttercup-e1761527583344-300x222.jpg
 Cash,M,27-May-2023,N,N,,Y,,Y,Y,Y,,SOSD,https://www.sosd.org.sg/cash/,https://www.sosd.org.sg/wp-content/uploads/2025/12/Cash-e1766330981253-300x186.jpg
+Cathy,F,19-Jun-2017,Y,Y,,Y,,Y,N,,Y,SOSD,https://www.sosd.org.sg/cathy/,https://www.sosd.org.sg/wp-content/uploads/2026/03/Cathy-e1773061083685-300x190.jpg
 Cheeky,M,21-Oct-2018,N,,Y,Y,,,N,,,SOSD,https://www.sosd.org.sg/cheeky/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Cheeky-e1761575297629-300x183.jpg
 Cleo,F,12-Jun-2024,Y,N,,Y,,,N,,,SOSD,https://www.sosd.org.sg/cleo/,https://www.sosd.org.sg/wp-content/uploads/2025/10/Cleo3-scaled-e1761528311720-300x223.jpg
 Cooper,M,1-Jun-2019,N,N,,Y,,,N,,,SOSD,https://www.sosd.org.sg/cooper/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Cooper-e1728198855394-300x192.jpg
@@ -260,6 +260,7 @@ Ginger,F,1-Jan-2018,Y,,,,,Y,N,,,OSCAS,https://www.oscas.sg/adoption-gallery,http
 Goldie,M,1-Jan-2019,Y,,,,,Y,Y,,,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1741334433334-DIIAPS3FED7JEWT1Q9HG/instagram+images+-+2024-02-03T154522.794.jpg
 Happy,M,1-Jan-2019,Y,,,,,,Y,,Y,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1724122592929-2OYQ9OKO8V6HJ7O7GAH7/93.jpg
 Kenzo,M,1-Jan-2021,Y,,,Y,Y,Y,N,,,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1768356591271-N3VPJ0PE1SH49NLAW8JY/7.jpg
+Kiko,M,1-Dec-2025,N,,,,Y,Y,N,,Y,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1773209531476-QYOJX2SSMXCWRGN2LI5C/Kiko-1.jpg
 Kino,M,1-Jan-2015,Y,N,,,Y,,Y,Y,,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1696382589317-SCX5L2PSVBQNJPCB8AC0/Kino+on+the+stairs.jpg
 Lele,M,1-Jan-2020,Y,,,Y,Y,,N,,Y,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1757366480261-TSECJ8AH9XYNZYZ3QZVQ/4.jpg
 Levi,M,1-Jan-2016,Y,,,,,Y,N,,,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1769899755237-M1VW2N8IWKFO1K19O9U2/10.jpg
@@ -285,12 +286,14 @@ Racer,M,1-Jan-2008,Y,,,,,,Y,Y,Y,OSCAS,https://www.oscas.sg/adoption-gallery,http
 Reese,F,1-Jan-2021,Y,,,,,Y,Y,,,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1754648105881-LZH1XVNWSE2A0B5DEV7I/3.jpg
 Rocco,M,1-Jan-2020,Y,,,,,,N,,Y,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1764474724825-F0AVMMXBJS94UYPXP0S6/1.jpg
 Rosemary,F,1-Jan-2016,Y,,,Y,,,N,,N,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1759900783095-T44NKYWHN0MPOI7TAF13/2.jpg
+Rusty,M,1-Dec-2025,N,,,,Y,,N,,Y,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1773206146444-A343UQ1XBFKJCS23254K/Rusty.jpg
 Sam Bao,F,1-Jan-2015,N,,,Y,Y,,Y,,N,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1700376628049-LPGMISMP9790ETE296DJ/16.jpg
 Skipper,M,1-Jan-2019,N,,,,,,Y,,,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1716093192523-A7OM0T5POW48OC7Y8VVO/65.jpg
 Snow White,F,1-Jan-2019,Y,,,,,,N,,Y,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1768355448865-VJXK7DEBGFOL4ZX1JGNP/2.jpg
 Sparkle,F,1-Jan-2025,N,,,,,,Y,,,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1756101618992-XPYH851JPK1D4VRNTQ13/8.jpg
 Sweetie,F,1-Jan-2018,Y,,,,Y,,N,,Y,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1738903642547-KEZUI42QO4C6W1LR8U69/5.png
 Teddy,M,1-Jan-2019,N,,,Y,Y,,N,,N,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1738904989038-YADRFFR5LUB03HJI0KOF/Teddy.jpg
+Tiffany,F,1-Dec-2025,N,,,,,Y,N,,,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1773209789114-QRUR6JGH3JDIN7S5J3N6/Tiffany.jpg
 Tina,F,1-Jan-2018,N,,,,,N,Y,,,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1755679085570-Z1PRHQ04JWTB41ISXVPX/10.jpg
 Ting Ting,F,1-Jan-2015,Y,,,,,Y,N,,,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1741333654799-DGSF5ODZE7KBLRE8H28Z/124.jpg
 Tommy,M,1-Jan-2019,N,,,,Y,Y,N,,,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1738914212399-HDS97RS8OU0YGFIM0978/64.jpg
