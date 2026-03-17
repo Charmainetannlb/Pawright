@@ -1,4 +1,5 @@
 Name,Gender,DOB,HBDApproved,Child,Cat,DogOther,Active,Calm,FoodMo,Intelligent,Outgoing,Holdingshel,Address,ImageLink
+LeBlanc,M,1-Dec-2020,N,,,,Y,,Y,,Y,ASD,https://asdsingapore.com/adopt/leblanc,https://asdsingapore.com/assets/images/adopts/leblanc-20260315084359.jpg
 Breitling,M,1-Oct-2018,N,,,,,Y,Y,,,ASD,https://asdsingapore.com/adopt/breitling,https://asdsingapore.com/assets/images/adopts/breitling-20260228181127.jpeg
 Bully,M,1-Jun-2018,Y,N,,Y,,Y,Y,,,ASD,https://asdsingapore.com/adopt/bully,https://asdsingapore.com/assets/images/adopts/bully-20260228180549.jpg
 Captain,M,1-Aug-2018,Y,,,Y,,,N,Y,N,ASD,https://asdsingapore.com/adopt/captain,https://asdsingapore.com/assets/images/adopts/captain-20260228180132.jpg
@@ -26,7 +27,6 @@ Nala,F,1-Aug-2014,Y,,,,,Y,N,,,ASD,https://asdsingapore.com/adopt/nala,https://as
 Hondo,M,1-Oct-2021,Y,,,Y,Y,,Y,,,ASD,https://asdsingapore.com/adopt/hondo,https://asdsingapore.com/assets/images/adopts/hondo-20250223154350.jpg
 Spam,M,1-Jan-2024,Y,,,Y,,,Y,,,ASD,https://asdsingapore.com/adopt/spam,https://asdsingapore.com/assets/images/adopts/spam-20241124145441.jpg
 Jam,F,1-Nov-2023,Y,,,,Y,,Y,,,ASD,https://asdsingapore.com/adopt/jam,https://asdsingapore.com/assets/images/adopts/jam-20241124145301.jpg
-Cheetah,M,1-Oct-2016,N,,,Y,,Y,Y,,Y,ASD,https://asdsingapore.com/adopt/cheetah,https://asdsingapore.com/assets/images/adopts/cheetah-20241117213349.jpg
 YiDong,M,1-Dec-2021,N,,,Y,Y,,N,,Y,ASD,https://asdsingapore.com/adopt/yidong,https://asdsingapore.com/assets/images/adopts/yidong-20241120220930.jpg
 Gabby,F,1-Jun-2019,Y,N,,Y,Y,,Y,Y,Y,ASD,https://asdsingapore.com/adopt/gabby,https://asdsingapore.com/assets/images/adopts/gabby-20241104161655.jpg
 Lobelle,F,1-Jan-2017,Y,,,Y,,,N,Y,N,ASD,https://asdsingapore.com/adopt/lobelle,https://asdsingapore.com/assets/images/adopts/lobelle-20241120221140.jpg
@@ -34,7 +34,6 @@ Tao Bao,F,1-May-2017,N,,,Y,,,N,,N,ASD,https://asdsingapore.com/adopt/tao-bao,htt
 Boone,M,1-Dec-2021,Y,N,,,Y,,N,,Y,ASD,https://asdsingapore.com/adopt/boone,https://asdsingapore.com/assets/images/adopts/boone-20230410221315.jpeg
 Tiramisu,M,1-Sep-2019,N,,,,Y,,N,,Y,ASD,https://asdsingapore.com/adopt/tiramisu,https://asdsingapore.com/assets/images/adopts/tiramisu-20230410221728.jpeg
 Bolt,M,1-Jan-2017,Y,,,Y,,,N,,N,ASD,https://asdsingapore.com/adopt/bolt,https://asdsingapore.com/assets/images/adopts/bolt-20220414112946.jpg
-Haniel,F,1-Dec-2020,Y,,Y,Y,,,N,,,ASD,https://asdsingapore.com/adopt/haniel,https://asdsingapore.com/assets/images/adopts/haniel-20231015063957.JPG
 Dollar,F,1-Jun-2020,N,,Y,Y,Y,,N,,,ASD,https://asdsingapore.com/adopt/dollar,https://asdsingapore.com/assets/images/adopts/dollar-20220327144305.jpg
 Capri,F,1-Jan-2022,Y,,,,,,N,,,ASD,https://asdsingapore.com/adopt/capri,https://asdsingapore.com/assets/images/adopts/capri-20220610113106.jpeg
 Elvis,M,1-Dec-20216,Y,,,,,,Y,,,ASD,https://asdsingapore.com/adopt/elvis,https://asdsingapore.com/assets/images/adopts/elvis-20220410193329.jpeg
@@ -104,7 +103,6 @@ Elliot,M,24-Apr-2020,Y,,,Y,Y,Y,Y,,N,SOSD,https://www.sosd.org.sg/elliot/,https:/
 Fairway,F,15-Sep-2022,Y,,,Y,,Y,Y,Y,,SOSD,https://www.sosd.org.sg/fairway/,https://www.sosd.org.sg/wp-content/uploads/2025/10/Fairway-scaled-e1761486692467-300x203.jpg
 Feebee,F,13-Oct-2019,Y,N,,Y,,,Y,,,SOSD,https://www.sosd.org.sg/feebee/,https://www.sosd.org.sg/wp-content/uploads/2025/10/Feebee-e1761580865567-300x197.jpg
 Freckles,F,13-Oct-2019,Y,N,,Y,,,N,,N,SOSD,https://www.sosd.org.sg/freckles/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Freckles-e1761579929692-300x198.jpg
-Galaxy,F,5-Jul-2014,Y,Y,Y,Y,,,N,,Y,SOSD,https://www.sosd.org.sg/galaxy/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Galaxy-e1761573239511-300x192.jpg
 Garcia,F,5-Jul-2014,Y,Y,Y,Y,,,N,,Y,SOSD,https://www.sosd.org.sg/garcia/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Garcia-e1761573422954-300x199.jpg
 Gong Gong,M,1-Dec-2015,Y,,,Y,N,Y,N,,,SOSD,https://www.sosd.org.sg/gong-gong/,https://www.sosd.org.sg/wp-content/uploads/2025/10/PXL_20250908_061151136-PORTRAIT-min-e1761487466729-300x240.jpg
 Hagrid,M,16-Dec-2016,Y,,,,,Y,Y,,,SOSD,https://www.sosd.org.sg/hagrid/,https://www.sosd.org.sg/wp-content/uploads/2025/10/Hagrid-e1761583917509-300x191.jpg
@@ -159,7 +157,6 @@ Cliff,M,1-Sep-2013,N,,,,Y,,N,,,SPCA,https://spca.org.sg/animal/cliff/,https://sp
 Dexter,M,1-Aug-2023,Y,N,,,,,N,,,SPCA,https://spca.org.sg/animal/dexter/,https://spca.org.sg/wp-content/uploads/2025/06/DSF4145-edited-scaled.jpg
 Gnocchi,M,1-Dec-2022,Y,,,Y,,,N,,,SPCA,https://spca.org.sg/animal/gnocchi/,https://spca.org.sg/wp-content/uploads/2023/12/Gnicchi.jpg
 Hazel,F,1-May-2015,N,,,,,Y,N,,,SPCA,https://spca.org.sg/animal/hazel/,https://spca.org.sg/wp-content/uploads/2022/12/Hazel_1.jpg
-Humpty,M,1-Oct-2017,Y,,,,N,Y,N,,,SPCA,https://spca.org.sg/animal/humpty/,https://spca.org.sg/wp-content/uploads/2025/10/Humpty-2.jpg
 Keiji,M,1-Jul-2016,N,,,,,,N,,,SPCA,https://spca.org.sg/animal/keiji/,https://spca.org.sg/wp-content/uploads/2022/12/Keiji_1.jpg
 Milo,M,1-Aug-2019,Y,N,,N,Y,,Y,,N,SPCA,https://spca.org.sg/animal/milo-3/,https://spca.org.sg/wp-content/uploads/2025/03/Copy-of-CAL03421-scaled.jpg
 Nana,F,1-Oct-2021,N,N,,,,,N,,N,SPCA,https://spca.org.sg/animal/nana-3/,https://spca.org.sg/wp-content/uploads/2026/03/IMG-20251202-WA0016.jpg
@@ -172,7 +169,6 @@ Pickles,M,1-Dec-2022,Y,,,Y,,,N,,,SPCA,https://spca.org.sg/animal/pickles/,https:
 Scooby,M,1-Jun-2021,N,,,,Y,,Y,,,SPCA,https://spca.org.sg/animal/scooby-2/,https://spca.org.sg/wp-content/uploads/2024/06/IMG-20240527-WA0039.jpg
 Sonic,M,1-Jan-2026,N,,,,N,N,N,,N,SPCA,https://spca.org.sg/animal/sonic/,https://spca.org.sg/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-06-at-3.34.09-PM.jpeg
 Tales,F,1-Jan-2026,N,,,,N,N,N,,N,SPCA,https://spca.org.sg/animal/tales/,https://spca.org.sg/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-06-at-3.34.03-PM.jpeg
-Tangerine,F,1-Apr-2017,Y,,,,,Y,N,,,SPCA,https://spca.org.sg/animal/tangerine-2/,https://spca.org.sg/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-03-at-5.10.33-PM.jpeg
 Tita,F,1-Aug-2020,N,,,,,,N,,Y,SPCA,https://spca.org.sg/animal/tita/,https://spca.org.sg/wp-content/uploads/2022/12/Tita_1.jpg
 Vonita,F,1-Mar-2015,N,,,,,Y,N,,,SPCA,https://spca.org.sg/animal/vonita/,https://spca.org.sg/wp-content/uploads/2025/06/CAL03320-scaled.jpg
 Ace Blessing,M,6-Jul-2023,Y,Y,,Y,,,N,,,Mercylight,https://mercylight.org.sg/adopt-a-blessing/adopt-a-gentleman-blessing/ace-blessing/,https://mercylight.org.sg/wp-content/uploads/2025/05/AceCrop3-370x350.jpg
