@@ -1,4 +1,7 @@
 Name,Gender,DOB,HBDApproved,Child,Cat,DogOther,Active,Calm,FoodMo,Intelligent,Outgoing,Holdingshel,Address,ImageLink
+Alpha,F,1-Sep-2018,Y,,,,,Y,Y,,N,ASD,https://asdsingapore.com/adopt/alpha,https://asdsingapore.com/assets/images/adopts/alpha-20260331121023.jpg
+Beta,M,1-Sep-2018,Y,,,,Y,Y,Y,,Y,ASD,https://asdsingapore.com/adopt/beta,https://asdsingapore.com/assets/images/adopts/beta-20260331121114.jpg
+Poker,M,1-Sep-2023,N,,,Y,Y,Y,N,,Y,ASD,https://asdsingapore.com/adopt/poker,https://asdsingapore.com/assets/images/adopts/poker-20260331111954.jpg
 LeBlanc,M,1-Dec-2020,N,,,,Y,,Y,,Y,ASD,https://asdsingapore.com/adopt/leblanc,https://asdsingapore.com/assets/images/adopts/leblanc-20260315084359.jpg
 Breitling,M,1-Oct-2018,N,,,,,Y,Y,,,ASD,https://asdsingapore.com/adopt/breitling,https://asdsingapore.com/assets/images/adopts/breitling-20260228181127.jpeg
 Bully,M,1-Jun-2018,Y,N,,Y,,Y,Y,,,ASD,https://asdsingapore.com/adopt/bully,https://asdsingapore.com/assets/images/adopts/bully-20260228180549.jpg
@@ -42,7 +45,6 @@ Toby,M,1-Jan-2016,N,N,,,,,N,Y,Y,ASD,https://asdsingapore.com/adopt/toby,https://
 Calbee,F,1-Jul-2017,Y,,,Y,,,Y,,,ASD,https://asdsingapore.com/adopt/calbee,https://asdsingapore.com/assets/images/adopts/calbee-20220327145637.jpg
 Nelly,F,1-Jul-2017,N,,,N,,Y,Y,,,ASD,https://asdsingapore.com/adopt/nelly,https://asdsingapore.com/assets/images/adopts/nelly-20230513015714.jpg
 Sterling,M,1-Jan-2013,N,,,,Y,,N,,Y,ASD,https://asdsingapore.com/adopt/sterling,https://asdsingapore.com/assets/images/adopts/sterling-20220402174711.jpg
-Yukon,M,1-Nov-2022,Y,,,,Y,,N,Y,,ASD,https://asdsingapore.com/adopt/yukon,https://asdsingapore.com/assets/images/adopts/yukon-20230501104921.jpg
 Sinbad,M,1-Aug-2015,Y,,,,Y,,N,,,ASD,https://asdsingapore.com/adopt/sinbad,https://asdsingapore.com/assets/images/adopts/sinbad-20240111035737.jpg
 Raju,M,1-Dec-2014,N,N,,,Y,,N,,Y,ASD,https://asdsingapore.com/adopt/raju,https://asdsingapore.com/assets/images/adopts/raju-20220119190145.jpg
 Milo,M,1-Jun-2017,N,,,,,,N,,,ASD,https://asdsingapore.com/adopt/milo,https://asdsingapore.com/assets/images/adopts/milo-20220327153441.jpg
@@ -68,7 +70,6 @@ Karen,F,1-Jan-2012,N,,,Y,,,N,,Y,ASD,https://asdsingapore.com/adopt/karen,https:/
 Lucy,F,1-Mar-2014,N,,,,Y,,N,,,ASD,https://asdsingapore.com/adopt/lucy,https://asdsingapore.com/assets/images/adopts/lucy-20220327153232.jpg
 Bobbi,F,1-Jan-2012,Y,,,,,,N,,Y,ASD,https://asdsingapore.com/adopt/bobbi,https://asdsingapore.com/assets/images/adopts/bobbi-20220327150421.jpg
 Tobias,M,1-Feb-2019,N,Y,,Y,,,N,,,ASD,https://asdsingapore.com/adopt/tobias,https://asdsingapore.com/assets/images/adopts/tobias-20190703113104.jpg
-Russet,M,1-Nov-2022,Y,,,,Y,,Y,,Y,ASD,https://asdsingapore.com/adopt/russet,https://asdsingapore.com/assets/images/adopts/russet-20230501105008.jpg
 Elly,F,1-Feb-2014,N,,,,,,N,,,ASD,https://asdsingapore.com/adopt/elly,https://asdsingapore.com/assets/images/adopts/elly-20220327155944.jpg
 Sakae,M,1-Mar-2016,Y,,,,,,N,,,ASD,https://asdsingapore.com/adopt/sakae,https://asdsingapore.com/assets/images/adopts/sakae-20220327160017.jpg
 Clovis,M,1-Feb-2016,Y,,,,,,N,,,ASD,https://asdsingapore.com/adopt/clovis,https://asdsingapore.com/assets/images/adopts/clovis-20220119085943.jpg
@@ -87,6 +88,7 @@ Britney,F,30-Oct-2019,N,,,,,,Y,,N,SOSD,https://www.sosd.org.sg/britney/,https://
 Buffy,F,1-Jan-2016,N,,,Y,,,N,,Y,SOSD,https://www.sosd.org.sg/buffy/,https://www.sosd.org.sg/wp-content/uploads/2025/10/Buffy-e1761527176129-300x241.jpg
 Buttercup,F,1-Nov-2012,Y,Y,,,,Y,Y,,Y,SOSD,https://www.sosd.org.sg/buttercup/,https://www.sosd.org.sg/wp-content/uploads/2025/10/Buttercup-e1761527583344-300x222.jpg
 Cash,M,27-May-2023,N,N,,Y,,Y,Y,Y,,SOSD,https://www.sosd.org.sg/cash/,https://www.sosd.org.sg/wp-content/uploads/2025/12/Cash-e1766330981253-300x186.jpg
+Cathy,F,19-Jun-2017,Y,Y,,Y,,Y,N,,Y,SOSD,https://www.sosd.org.sg/cathy/,https://www.sosd.org.sg/wp-content/uploads/2026/03/Cathy-e1773061083685-300x190.jpg
 Cheeky,M,21-Oct-2018,N,,Y,Y,,,N,,,SOSD,https://www.sosd.org.sg/cheeky/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Cheeky-e1761575297629-300x183.jpg
 Cleo,F,12-Jun-2024,Y,N,,Y,,,N,,,SOSD,https://www.sosd.org.sg/cleo/,https://www.sosd.org.sg/wp-content/uploads/2025/10/Cleo3-scaled-e1761528311720-300x223.jpg
 Cooper,M,1-Jun-2019,N,N,,Y,,,N,,,SOSD,https://www.sosd.org.sg/cooper/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Cooper-e1728198855394-300x192.jpg
