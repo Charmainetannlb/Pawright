@@ -113,7 +113,7 @@ Hope,M,1-Jan-2018,Y,,,,,,N,,,SOSD,https://www.sosd.org.sg/hope/,https://www.sosd
 Iron,M,7-Apr-2014,Y,,,,,Y,N,,,SOSD,https://www.sosd.org.sg/iron/,https://www.sosd.org.sg/wp-content/uploads/2026/01/Iron-e1767356058167-300x205.jpg
 Jacky,M,1-Jul-2013,N,N,Y,Y,,,N,,,SOSD,https://www.sosd.org.sg/jacky/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Jacky-e1761574363861-300x196.jpg
 Jet,M,1-Jan-2016,Y,,,,,,N,,,SOSD,https://www.sosd.org.sg/jet/,https://www.sosd.org.sg/wp-content/uploads/2026/04/Jet-e1776243509745-300x181.jpg
-Kangaroo,M,9-Mar-2019,Y,,,,,,N,,,https://www.sosd.org.sg/kangaroo/,https://www.sosd.org.sg/wp-content/uploads/2026/03/Kangaroo2-1-scaled-e1776239071829-300x197.jpg
+Kangaroo,M,9-Mar-2019,Y,,,,,,N,,,SOSD,https://www.sosd.org.sg/kangaroo/,https://www.sosd.org.sg/wp-content/uploads/2026/03/Kangaroo2-1-scaled-e1776239071829-300x197.jpg
 Kata,F,13-Dec-2022,Y,N,,Y,,,N,Y,Y,SOSD,https://www.sosd.org.sg/kata/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Kata-scaled-e1761576411652-300x205.jpg
 Kika,F,24-Dec-2016,Y,,,,,,N,,,SOSD,https://www.sosd.org.sg/kika/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Kika-e1761572311616-300x188.jpg
 King,M,17-Feb-2025,N,N,,N,,,N,,Y,SOSD,https://www.sosd.org.sg/king/,https://www.sosd.org.sg/wp-content/uploads/2025/10/King-scaled-e1761528880406-300x203.jpg
@@ -140,7 +140,7 @@ Onigiri,M,31-Oct-2018,Y,N,,Y,,,Y,,,SOSD,https://www.sosd.org.sg/onigiri/,https:/
 Orrie,M,10-Nov-2019,Y,N,N,N,,,N,,,SOSD,https://www.sosd.org.sg/dogs-profile-orrie/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Orrie-e1732540038744-300x193.jpg
 Paintbrush,M,1-Feb-2015,N,,,,,,N,,,SOSD,https://www.sosd.org.sg/paintbrush/,https://www.sosd.org.sg/wp-content/uploads/2026/04/Paintbrush-e1776240383972-300x176.jpg
 Presley,M,1-Dec-2017,Y,,,,,Y,Y,,Y,SOSD,https://www.sosd.org.sg/presley/,https://www.sosd.org.sg/wp-content/uploads/2026/01/Presley-e1768834653946-300x190.jpg
-Pretzel,F,1-Dec-2015,Y,,,Y,,,Y,,,SOSD,https://www.sosd.org.sg/pretzels/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Pretzels-scaled-e1761657322868-300x190.jpg
+Pretzel,F,1-Dec-2015,Y,,,Y,,,Y,,,SOSD,https://www.sosd.org.sg/pretzel/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Pretzels-scaled-e1761657322868-300x190.jpg
 Rooney,M,2-Oct-2020,Y,N,,N,,,N,,Y,SOSD,https://www.sosd.org.sg/rooney/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Rooney-e1761575126461-300x189.jpg
 Rosalie,F,8-Jun-2020,Y,,,Y,,Y,Y,,,SOSD,https://www.sosd.org.sg/rosalie/,https://www.sosd.org.sg/wp-content/uploads/2025/10/Rosalie-e1761524996860-300x219.jpg
 Scrabby,M,1-Dec-2016,Y,,Y,Y,N,Y,Y,,,SOSD,https://www.sosd.org.sg/scrabby/,https://www.sosd.org.sg/wp-content/uploads/2025/10/Scrabby-e1761570518318-300x216.jpg
@@ -242,7 +242,6 @@ Summer Blessing,F,4-Feb-2014,Y,,,,,Y,N,,,Mercylight,https://mercylight.org.sg/ad
 Tasha Blessing,F,25-May-2020,Y,,,Y,,,N,Y,,Mercylight,https://mercylight.org.sg/adopt-a-blessing/adopt-a-lady-blessing/tasha-blessing/,https://mercylight.org.sg/wp-content/uploads/2025/09/TashaCrop-1.jpg
 Tess Blessing,F,6-Dec-2019,Y,,,Y,,,N,,N,Mercylight,https://mercylight.org.sg/adopt-a-blessing/adopt-a-lady-blessing/tess-blessing/,https://mercylight.org.sg/wp-content/uploads/2023/05/tess-tn.webp
 Waffle Blessing,M,18-Jan-2021,Y,N,,,,,N,,,Mercylight,https://mercylight.org.sg/adopt-a-blessing/adopt-a-gentleman-blessing/waffle-blessing/,https://mercylight.org.sg/wp-content/uploads/elementor/thumbs/WaffleCrop-rl4dmv6yi73xj7znq9cczwyuu6tbzrqukes373fju4.jpg
-Yuki Blessing,F,24-Mar-2020,Y,,,Y,,Y,N,,,Mercylight,https://mercylight.org.sg/adopt-a-blessing/adopt-a-lady-blessing/yuki-blessing/,https://mercylight.org.sg/wp-content/uploads/2025/09/YukiCrop8-1.jpg
 Adik,M,1-Jan-2020,Y,,,Y,,,Y,,,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1744708735464-8VMZBX4X7TOCOJ0B4A18/235.jpg
 Ajax,M,1-Jan-2020,N,,,,,Y,N,,Y,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1768365922815-YLJX2GDO9TEOP0PP11K7/16.jpg
 Bailey,M,1-Jan-2020,N,,,Y,Y,Y,Y,,N,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1717808070273-EDZYTNKE5CT63DUQI717/3.jpg
