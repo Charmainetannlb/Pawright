@@ -1,5 +1,5 @@
 Name,Gender,DOB,HBDApproved,Child,Cat,DogOther,Active,Calm,FoodMo,Intelligent,Outgoing,Holdingshel,Address,ImageLink
-Hamlet,M,1-Jun-2021,N,Y,,,N,Y,N,,Y,https://asdsingapore.com/adopt/hamlet,https://asdsingapore.com/assets/images/adopts/hamlet-20260508162412.jpeg
+Hamlet,M,1-Jun-2021,N,Y,,,N,Y,N,,Y,ASD,https://asdsingapore.com/adopt/hamlet,https://asdsingapore.com/assets/images/adopts/hamlet-20260508162412.jpeg
 Alpha,F,1-Sep-2018,Y,,,,,Y,Y,,N,ASD,https://asdsingapore.com/adopt/alpha,https://asdsingapore.com/assets/images/adopts/alpha-20260331121023.jpg
 Beta,M,1-Sep-2018,Y,,,,Y,Y,Y,,Y,ASD,https://asdsingapore.com/adopt/beta,https://asdsingapore.com/assets/images/adopts/beta-20260331121114.jpg
 Poker,M,1-Sep-2023,N,,,Y,Y,Y,N,,Y,ASD,https://asdsingapore.com/adopt/poker,https://asdsingapore.com/assets/images/adopts/poker-20260331111954.jpg
@@ -264,6 +264,7 @@ George,M,1-Jan-2011,N,,,,Y,,N,,Y,OSCAS,https://www.oscas.sg/adoption-gallery,htt
 Ginger,F,1-Jan-2018,Y,,,,,Y,N,,,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1755679722292-Z1LD2G6FQX21WME5MI5I/3.jpg
 Goldie,M,1-Jan-2019,Y,,,,,Y,Y,,,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1741334433334-DIIAPS3FED7JEWT1Q9HG/instagram+images+-+2024-02-03T154522.794.jpg
 Happy,M,1-Jan-2019,Y,,,,,,Y,,Y,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1724122592929-2OYQ9OKO8V6HJ7O7GAH7/93.jpg
+Kelly,F,1-Jan-2015,Y,,,Y,Y,Y,N,,,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1778550997608-L43BO0AJJCOSXLJDK0CK/Kelly.jpg
 Kenzo,M,1-Jan-2021,Y,,,Y,Y,Y,N,,,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1768356591271-N3VPJ0PE1SH49NLAW8JY/7.jpg
 Kiko,M,1-Dec-2025,N,,,,Y,Y,N,,Y,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1773209531476-QYOJX2SSMXCWRGN2LI5C/Kiko-1.jpg
 Kino,M,1-Jan-2015,Y,N,,,Y,,Y,Y,,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1696382589317-SCX5L2PSVBQNJPCB8AC0/Kino+on+the+stairs.jpg
@@ -287,8 +288,10 @@ Phoenix,M,1-Jan-2017,Y,,,Y,Y,,N,,,OSCAS,https://www.oscas.sg/adoption-gallery,ht
 Pokka,F,1-Jan-2020,Y,,,Y,,N,Y,,N,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1738905402286-Z9HQDG1ENV4VJ99465A9/14.jpg
 Poppy,F,1-Jan-2015,Y,,,,Y,,N,,,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1741330661735-XWC0GUYIW189BRF91AM4/166.jpg
 Racer,M,1-Jan-2008,Y,,,,,,Y,Y,Y,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1738907352052-COCLP20508UB51OX6NU7/39.jpg
+Randy,M,1-Jan-2016,Y,,,,Y,,N,Y,Y,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1778561969937-P5P0MAF8QMZSOAB3S049/9.jpg
 Reese,F,1-Jan-2021,Y,,,,,Y,Y,,,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1754648105881-LZH1XVNWSE2A0B5DEV7I/3.jpg
 Rocco,M,1-Jan-2020,Y,,,,,,N,,Y,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1764474724825-F0AVMMXBJS94UYPXP0S6/1.jpg
+Rocket,M,1-Jan-2016,Y,,,,,Y,N,,,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1778552133455-TF9LCZQ7UPVMUJL5EA53/6.jpg
 Rosemary,F,1-Jan-2016,Y,,,Y,,,N,,N,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1759900783095-T44NKYWHN0MPOI7TAF13/2.jpg
 Rusty,M,1-Dec-2025,N,,,,Y,,N,,Y,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1773206146444-A343UQ1XBFKJCS23254K/Rusty.jpg
 Sam Bao,F,1-Jan-2015,N,,,Y,Y,,Y,,N,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1700376628049-LPGMISMP9790ETE296DJ/16.jpg
