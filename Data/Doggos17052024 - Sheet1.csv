@@ -1,4 +1,6 @@
 Name,Gender,DOB,HBDApproved,Child,Cat,DogOther,Active,Calm,FoodMo,Intelligent,Outgoing,Holdingshel,Address,ImageLink
+Kelpie,M,1-Sep-2019,Y,,,,Y,Y,Y,,Y,ASD,https://asdsingapore.com/adopt/kelpie,https://asdsingapore.com/assets/images/adopts/kelpie-20260307230510.jpg
+Canola,M,1-Dec-2018,Y,,,Y,,Y,Y,,N,ASD,https://asdsingapore.com/adopt/canola,https://asdsingapore.com/assets/images/adopts/canola-20260814095612.jpg
 Soya,M,1-Jul-2019,Y,,,Y,,Y,Y,Y,,ASD,https://asdsingapore.com/adopt/soya,https://asdsingapore.com/assets/images/adopts/soya-20260320172543.jpg
 Althea,F,1-May-2015,Y,,,,,Y,Y,Y,N,ASD,https://asdsingapore.com/adopt/althea,https://asdsingapore.com/assets/images/adopts/althea-20260317232342.jpg
 Hamlet,M,1-Jun-2021,N,Y,,,N,Y,N,,Y,ASD,https://asdsingapore.com/adopt/hamlet,https://asdsingapore.com/assets/images/adopts/hamlet-20260508162412.jpeg
@@ -185,9 +187,11 @@ Niko,M,1-Aug-2023,Y,,,,,,N,,,SPCA,https://spca.org.sg/animal/niko/,https://spca.
 Pancake,M,1-Mar-2012,N,,,Y,,,Y,Y,Y,SPCA,https://spca.org.sg/animal/pancake/,https://spca.org.sg/wp-content/uploads/2022/12/Pancake_1.jpg
 Peanut,M,1-Feb-2015,N,,,,,Y,N,,,SPCA,https://spca.org.sg/animal/peanut/,https://spca.org.sg/wp-content/uploads/2022/12/Peanut_1.jpg
 Pickles,M,1-Dec-2022,Y,,,Y,,,N,,,SPCA,https://spca.org.sg/animal/pickles/,https://spca.org.sg/wp-content/uploads/2023/12/20.jpg
+Randy,M,1-Aug-2022,Y,,,,Y,Y,N,,Y,SPCA,https://spca.org.sg/animal/randy/,https://spca.org.sg/wp-content/uploads/2024/01/Randy-1.webp
 Rey,F,1-Jun-2022,Y,,,,,Y,N,,,SPCA,https://spca.org.sg/animal/rey/,https://spca.org.sg/wp-content/uploads/2024/02/photo1708606148.webp
 Sage,F,1-Apr-2023,N,N,N,N,Y,,N,,,SPCA,https://spca.org.sg/animal/sage-2/,https://spca.org.sg/wp-content/uploads/2026/07/SAGE.webp
 Scooby,M,1-Jun-2021,N,,,,Y,,Y,,,SPCA,https://spca.org.sg/animal/scooby-2/,https://spca.org.sg/wp-content/uploads/2024/06/IMG-20240527-WA0039.jpg
+TinTin,M,1-Feb-2016,Y,,,,,,N,,,SPCA,https://spca.org.sg/animal/tintin/,https://spca.org.sg/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-03-at-5.10.20-PM-2.webp
 Tita,F,1-Aug-2020,N,,,,,,N,,Y,SPCA,https://spca.org.sg/animal/tita/,https://spca.org.sg/wp-content/uploads/2022/12/Tita_1.jpg
 Vonita,F,1-Mar-2015,N,,,,,Y,N,,,SPCA,https://spca.org.sg/animal/vonita/,https://spca.org.sg/wp-content/uploads/2025/06/CAL03320-scaled.jpg
 Ace,M,6-Jul-2023,Y,Y,,Y,,,N,,,Mercylight,https://mercylight.org.sg/adopt-a-blessing/ace-blessing,https://pub-6499b08c747e44ae95c2be5203a4efea.r2.dev/media/Ace_Cover.jpg?v=2026-05-31T08%3A28%3A49.206Z
@@ -231,7 +235,6 @@ Nova,F,11-Jul-2023,Y,,,Y,,Y,N,Y,Y,Mercylight,https://mercylight.org.sg/adopt-a-b
 Nugget,M,19-Aug-2017,Y,,,Y,,Y,Y,,,Mercylight,https://mercylight.org.sg/adopt-a-blessing/nugget-blessing,https://pub-6499b08c747e44ae95c2be5203a4efea.r2.dev/media/Nugget_Cover-1.jpg?v=2026-06-01T13%3A50%3A39.130Z
 Olive,F,27-Aug-2019,Y,,,Y,,,N,Y,Y,Mercylight,https://mercylight.org.sg/adopt-a-blessing/olive-blessing,https://pub-6499b08c747e44ae95c2be5203a4efea.r2.dev/media/Olive_Cover.jpg?v=2026-06-01T13%3A56%3A24.669Z
 Pardon,M,22-Apr-2022,N,,,Y,,,N,,Y,Mercylight,https://mercylight.org.sg/adopt-a-blessing/pardon-blessing,https://pub-6499b08c747e44ae95c2be5203a4efea.r2.dev/media/Pardon_Cover.jpg?v=2026-06-01T14%3A06%3A02.602Z
-Poppy,F,15-Jun-2018,Y,,,Y,,,Y,,,Mercylight,https://mercylight.org.sg/adopt-a-blessing/poppy-blessing,https://pub-6499b08c747e44ae95c2be5203a4efea.r2.dev/media/Poppy_Cover.jpg?v=2026-06-01T14%3A12%3A40.417Z
 Rainbow,F,22-Jan-2020,Y,,,Y,,Y,N,,,Mercylight,https://mercylight.org.sg/adopt-a-blessing/rainbow-blessing,https://pub-6499b08c747e44ae95c2be5203a4efea.r2.dev/media/Rainbow_Cover.jpg?v=2026-06-01T14%3A48%3A19.739Z
 Saint,M,18-Jan-2021,N,Y,,Y,,,N,,,Mercylight,https://mercylight.org.sg/adopt-a-blessing/saint-blessing,https://pub-6499b08c747e44ae95c2be5203a4efea.r2.dev/media/Saint_Cover.jpg?v=2026-06-01T15%3A14%3A51.911Z
 Skylar,F,6-Jan-2021,Y,,,Y,,,N,,Y,Mercylight,https://mercylight.org.sg/adopt-a-blessing/skylar-blessing,https://pub-6499b08c747e44ae95c2be5203a4efea.r2.dev/media/Skylar_Cover.jpeg?v=2026-06-02T16%3A20%3A48.749Z
