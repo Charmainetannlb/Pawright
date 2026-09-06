@@ -33,7 +33,6 @@ Nala,F,1-Aug-2014,Y,,,,,Y,N,,,ASD,https://asdsingapore.com/adopt/nala,https://as
 Hondo,M,1-Oct-2021,Y,,,Y,Y,,Y,,,ASD,https://asdsingapore.com/adopt/hondo,https://asdsingapore.com/assets/images/adopts/hondo-20250223154350.jpg
 Spam,M,1-Jan-2024,Y,,,Y,,,Y,,,ASD,https://asdsingapore.com/adopt/spam,https://asdsingapore.com/assets/images/adopts/spam-20241124145441.jpg
 Jam,F,1-Nov-2023,Y,,,,Y,,Y,,,ASD,https://asdsingapore.com/adopt/jam,https://asdsingapore.com/assets/images/adopts/jam-20241124145301.jpg
-YiDong,M,1-Dec-2021,N,,,Y,Y,,N,,Y,ASD,https://asdsingapore.com/adopt/yidong,https://asdsingapore.com/assets/images/adopts/yidong-20241120220930.jpg
 Lobelle,F,1-Jan-2017,Y,,,Y,,,N,Y,N,ASD,https://asdsingapore.com/adopt/lobelle,https://asdsingapore.com/assets/images/adopts/lobelle-20241120221140.jpg
 Tao Bao,F,1-May-2017,N,,,Y,,,N,,N,ASD,https://asdsingapore.com/adopt/tao-bao,https://asdsingapore.com/assets/images/adopts/tao-bao-20220327145341.jpg
 Boone,M,1-Dec-2021,Y,N,,,Y,,N,,Y,ASD,https://asdsingapore.com/adopt/boone,https://asdsingapore.com/assets/images/adopts/boone-20230410221315.jpeg
@@ -74,9 +73,12 @@ Tobias,M,1-Feb-2019,N,Y,,Y,,,N,,,ASD,https://asdsingapore.com/adopt/tobias,https
 Elly,F,1-Feb-2014,N,,,,,,N,,,ASD,https://asdsingapore.com/adopt/elly,https://asdsingapore.com/assets/images/adopts/elly-20220327155944.jpg
 Sakae,M,1-Mar-2016,Y,,,,,,N,,,ASD,https://asdsingapore.com/adopt/sakae,https://asdsingapore.com/assets/images/adopts/sakae-20220327160017.jpg
 Clovis,M,1-Feb-2016,Y,,,,,,N,,,ASD,https://asdsingapore.com/adopt/clovis,https://asdsingapore.com/assets/images/adopts/clovis-20220119085943.jpg
+Abby,F,1-Jan-2019,Y,Y,,Y,,Y,N,,,SOSD,https://www.sosd.org.sg/abby/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Abby3-e1732540424628-300x192.jpg
 Alistaire,M,23-Mar-2016,N,N,Y,Y,,Y,Y,,N,SOSD,https://www.sosd.org.sg/alistaire/,https://www.sosd.org.sg/wp-content/uploads/2025/10/Alistaire-e1761570839248-300x205.jpg
+Amber,F,1-Jan-2019,Y,Y,,,,,N,,,SOSD,https://www.sosd.org.sg/amber/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Amber-e1728200967968-1-300x192.jpg
 Anatoly,M,19-Feb-2017,Y,,,,,Y,N,,N,SOSD,https://www.sosd.org.sg/anatoly/,https://www.sosd.org.sg/wp-content/uploads/2025/10/Anatoly-e1779975482445-300x189.jpg
 Bebe,F,5-Mar-2021,Y,,,,,,N,,,SOSD,https://www.sosd.org.sg/bebe/,https://www.sosd.org.sg/wp-content/uploads/2026/02/Yanis-e1770271511134-300x207.jpg
+Benji,M,1-Apr-2011,Y,N,N,N,Y,,N,,Y,SOSD,https://www.sosd.org.sg/benji/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Benji-e1761573813474-300x206.jpg
 Blackie,F,1-Jan-2013,Y,,,,,Y,N,,Y,SOSD,https://www.sosd.org.sg/blackie/,https://www.sosd.org.sg/wp-content/uploads/2026/01/Blackie-e1768463726270-300x188.jpg
 Boba,F,8-Feb-2018,Y,N,,N,Y,N,N,,N,SOSD,https://www.sosd.org.sg/boba/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Boba-e1761580140283-300x202.jpg
 Bolly,M,2-Mar-2018,Y,Y,Y,Y,,,N,,,SOSD,https://www.sosd.org.sg/bolly/,https://www.sosd.org.sg/wp-content/uploads/2026/03/Bolly-scaled-e1786067979570-300x190.jpg
@@ -108,6 +110,8 @@ Jacky,M,1-Jul-2013,N,N,Y,Y,,,N,,,SOSD,https://www.sosd.org.sg/jacky/,https://www
 Jet,M,1-Jan-2016,Y,,,,,,N,,,SOSD,https://www.sosd.org.sg/jet/,https://www.sosd.org.sg/wp-content/uploads/2026/04/Jet-e1776243509745-300x181.jpg
 Jinu,M,21-Apr-2025,Y,Y,,N,Y,,N,,Y,SOSD,https://www.sosd.org.sg/jinu/,https://www.sosd.org.sg/wp-content/uploads/2026/05/Jinu-scaled-e1779074349787-300x192.jpg
 Kangaroo,M,9-Mar-2019,Y,,,,,,N,,,SOSD,https://www.sosd.org.sg/kangaroo/,https://www.sosd.org.sg/wp-content/uploads/2026/03/Kangaroo2-1-scaled-e1776239071829-300x197.jpg
+Kika,F,24-Dec-2016,Y,,,,,,N,,,SOSD,https://www.sosd.org.sg/kika/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Kika-e1761572311616-300x188.jpg
+King,M,17-Feb-2025,N,N,,N,,,N,,Y,SOSD,https://www.sosd.org.sg/king/,https://www.sosd.org.sg/wp-content/uploads/2025/10/King-scaled-e1761528880406-300x203.jpg
 Kristoff,M,1-Nov-2015,Y,,,,,Y,Y,,,SOSD,https://www.sosd.org.sg/kristoff/,https://www.sosd.org.sg/wp-content/uploads/2025/10/Kristoff-e1767582740970-300x192.jpg
 Kyson,M,4-Mar-2022,Y,,,,,,N,Y,,SOSD,https://www.sosd.org.sg/kyson/,https://www.sosd.org.sg/wp-content/uploads/2026/03/Kyson-e1773292296801-300x191.jpg
 Latte,F,1-Feb-2015,Y,,,,,Y,N,,,SOSD,https://www.sosd.org.sg/latte/,https://www.sosd.org.sg/wp-content/uploads/2026/04/Latte-e1776240249799-300x178.jpg
@@ -116,6 +120,7 @@ Lenny B,M,1-Oct-2016,Y,,,,,,N,,,SOSD,https://www.sosd.org.sg/lenny-b/,https://ww
 Leon,M,1-Oct-2016,Y,,,,,Y,N,,,SOSD,https://www.sosd.org.sg/leon/,https://www.sosd.org.sg/wp-content/uploads/2026/04/Leon-e1776241875126-300x181.jpg
 Lolitha,F,1-Dec-2016,Y,,,Y,,,N,,,SOSD,https://www.sosd.org.sg/lolitha/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Lolitha-scaled-e1761583602745-300x197.jpg
 Lucki,M,1-May-2018,N,N,,,Y,,N,,Y,SOSD,https://www.sosd.org.sg/lucki/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Lucki-e1572778132316-300x192.jpg
+Lynx,F,1-Jun-2016,Y,,Y,Y,,Y,Y,,,SOSD,https://www.sosd.org.sg/lynx/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Lynx-e1761579541621-300x200.jpg
 Mandy,F,1-Jan-2019,Y,Y,Y,Y,,Y,N,,,SOSD,https://www.sosd.org.sg/mandy/,https://www.sosd.org.sg/wp-content/uploads/2025/10/Mandy-scaled-e1761527410507-300x218.jpg
 Mango,M,1-Jan-2016,N,,,,,,Y,Y,,SOSD,https://www.sosd.org.sg/mango/,https://www.sosd.org.sg/wp-content/uploads/2026/04/Mango-scaled-e1776242389370-300x195.jpg
 Marsh,M,1-Jan-2017,N,N,,Y,,,Y,,,SOSD,https://www.sosd.org.sg/marsh/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Marsh-e1703570862805-300x192.jpg
@@ -147,6 +152,7 @@ Tanya,F,1-Dec-2016,Y,,,Y,,Y,Y,,,SOSD,https://www.sosd.org.sg/tanya/,https://www.
 Thumbelina,F,1-Mar-2018,Y,N,,N,,,N,,,SOSD,https://www.sosd.org.sg/thumbelina/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Thumbelina-e1728199027750-300x192.jpg
 Tinder,M,27-Apr-2016,N,,,Y,,,Y,,,SOSD,https://www.sosd.org.sg/tinder/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Tinder-e1761578592472-300x186.jpg
 Tommy,M,14-Sep-2020,Y,,,,Y,,N,,,SOSD,https://www.sosd.org.sg/tommy/,https://www.sosd.org.sg/wp-content/uploads/2025/10/Tommy-scaled-e1767582969255-300x184.jpg
+Uma,F,14-Feb-2019,N,,,Y,Y,,Y,,N,SOSD,https://www.sosd.org.sg/uma/,https://www.sosd.org.sg/wp-content/uploads/2025/10/PXL_20250903_064953600-PORTRAIT-min-e1761488257687-300x217.jpg
 Viper,M,1-Jan-2014,Y,,,,,,N,,,SOSD,https://www.sosd.org.sg/viper/,https://www.sosd.org.sg/wp-content/uploads/2026/04/Viper-e1776243153946-300x187.jpg
 Whistle,M,1-Dec-2025,N,N,Y,Y,Y,,Y,,Y,SOSD,https://www.sosd.org.sg/whistle/,https://www.sosd.org.sg/wp-content/uploads/2026/04/Whistle-e1777037544117-300x218.jpg
 Willow,F,5-Jun-2014,Y,,,,,,N,,,SOSD,https://www.sosd.org.sg/willow/,https://www.sosd.org.sg/wp-content/uploads/2026/06/Willow-e1781689708169-300x202.jpg
@@ -314,7 +320,6 @@ Twinkle,F,1-Jan-2025,N,,,,Y,,N,,,OSCAS,https://www.oscas.sg/adoption-gallery,htt
 Vodka,M,1-Jan-2020,Y,,,,,,N,,,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1777083933630-81FEAFC10WEPHQ1STQ87/Vodka.jpg
 Yunca,F,1-Jan-2018,Y,,,Y,Y,,N,,N,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1668330308010-DSXDAYV7RH76DBU6VHG2/Yunca.jpg
 Zanna,F,1-Jan-2017,N,,,Y,,Y,N,,N,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1771395888112-CF7GQY5KXT53Y34TGUTI/4.jpg
-Zuko,M,1-Jan-2023,Y,,,,Y,,N,,,OSCAS,https://www.oscas.sg/adoption-gallery,https://images.squarespace-cdn.com/content/v1/58c8f1c59f7456a4a13d0c07/1777086497608-SNEDSMT9PY6HB0V7F00F/Zuko.jpg
 Benji,M,1-Dec-2020,N,Y,,Y,,Y,N,,Y,CDAS,https://chaineddogawareness.sg/benji,https://chaineddogawareness.sg/wp-content/uploads/2025/04/benji-2-1024x1024.png
 Bobby,M,1-Dec-2023,Y,,,,,N,N,,N,CDAS,https://chaineddogawareness.sg/bobby,https://chaineddogawareness.sg/wp-content/uploads/2024/03/WhatsApp-Image-2024-03-15-at-4.43.23-PM-e1710494176510-1024x1024.jpeg
 Burger,M,1-Jan-2019,N,,,Y,,Y,N,,Y,CDAS,https://chaineddogawareness.sg/burger,https://chaineddogawareness.sg/wp-content/uploads/2026/03/burger3.png
