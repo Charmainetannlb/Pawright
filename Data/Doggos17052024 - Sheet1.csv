@@ -1,4 +1,6 @@
 Name,Gender,DOB,HBDApproved,Child,Cat,DogOther,Active,Calm,FoodMo,Intelligent,Outgoing,Holdingshel,Address,ImageLink
+Daiquiri,F,1-Jan-2026,Y,,Y,Y,,,Y,,N,ASD,https://asdsingapore.com/adopt/daiquiri,https://asdsingapore.com/assets/images/adopts/daiquiri-20261013103915.png
+Midori,F,1-Jan-2026,N,,,,,,N,,,ASD,https://asdsingapore.com/adopt/midori,https://asdsingapore.com/assets/images/adopts/midori-20260914113629.png
 Manis,F,1-Dec-2016,Y,N,,Y,,Y,N,,N,ASD,https://asdsingapore.com/adopt/manis,https://asdsingapore.com/assets/images/adopts/manis-20260824091648.png
 Kelpie,M,1-Sep-2019,Y,,,,Y,Y,Y,,Y,ASD,https://asdsingapore.com/adopt/kelpie,https://asdsingapore.com/assets/images/adopts/kelpie-20260307230510.jpg
 Canola,M,1-Dec-2018,Y,,,Y,,Y,Y,,N,ASD,https://asdsingapore.com/adopt/canola,https://asdsingapore.com/assets/images/adopts/canola-20260814095612.jpg
@@ -63,7 +65,6 @@ Aimee,F,1-Jan-2014,Y,,,,Y,,N,,,ASD,https://asdsingapore.com/adopt/aimee,https://
 Bheen,M,1-Jan-2012,Y,N,,,,,N,,Y,ASD,https://asdsingapore.com/adopt/bheen,https://asdsingapore.com/assets/images/adopts/bheen-20220119084629.jpg
 Tarzan,M,1-Mar-2022,Y,,,Y,Y,,Y,,,ASD,https://asdsingapore.com/adopt/tarzan,https://asdsingapore.com/assets/images/adopts/tarzan-20230103112157.jpg
 Bacon,M,1-Nov-2023,Y,,,Y,,Y,Y,,N,ASD,https://asdsingapore.com/adopt/bacon,https://asdsingapore.com/assets/images/adopts/bacon-20240603164825.jpg
-Karen,F,1-Jan-2012,N,,,Y,,,N,,Y,ASD,https://asdsingapore.com/adopt/karen,https://asdsingapore.com/assets/images/adopts/karen-20220402174823.jpg
 Lucy,F,1-Mar-2014,N,,,,Y,,N,,,ASD,https://asdsingapore.com/adopt/lucy,https://asdsingapore.com/assets/images/adopts/lucy-20220327153232.jpg
 Bobbi,F,1-Jan-2012,Y,,,,,,N,,Y,ASD,https://asdsingapore.com/adopt/bobbi,https://asdsingapore.com/assets/images/adopts/bobbi-20220327150421.jpg
 Elly,F,1-Feb-2014,N,,,,,,N,,,ASD,https://asdsingapore.com/adopt/elly,https://asdsingapore.com/assets/images/adopts/elly-20220327155944.jpg
@@ -73,6 +74,7 @@ Abby,F,1-Jan-2019,Y,Y,,Y,,Y,N,,,SOSD,https://www.sosd.org.sg/abby/,https://www.s
 Alistaire,M,23-Mar-2016,N,N,Y,Y,,Y,Y,,N,SOSD,https://www.sosd.org.sg/alistaire/,https://www.sosd.org.sg/wp-content/uploads/2025/10/Alistaire-e1761570839248-300x205.jpg
 Amber,F,1-Jan-2019,Y,Y,,,,,N,,,SOSD,https://www.sosd.org.sg/amber/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Amber-e1728200967968-1-300x192.jpg
 Anatoly,M,19-Feb-2017,Y,,,,,Y,N,,N,SOSD,https://www.sosd.org.sg/anatoly/,https://www.sosd.org.sg/wp-content/uploads/2025/10/Anatoly-e1779975482445-300x189.jpg
+Arya,F,13-Apr-2023,N,,,Y,Y,,Y,,Y,SOSD,https://www.sosd.org.sg/arya/,https://www.sosd.org.sg/wp-content/uploads/2026/10/Arya-e1791973763455-300x184.jpg
 Bagel,M,20-Jul-2019,Y,N,,N,,Y,N,,,SOSD,https://www.sosd.org.sg/bagel/,https://www.sosd.org.sg/wp-content/uploads/2026/07/Bagel-scaled-e1786068221556-300x189.jpg
 Bebe,F,5-Mar-2021,Y,,,,,,N,,,SOSD,https://www.sosd.org.sg/bebe/,https://www.sosd.org.sg/wp-content/uploads/2026/02/Yanis-e1770271511134-300x207.jpg
 Beef,M,26-May-2023,Y,N,,,,,Y,,,SOSD,https://www.sosd.org.sg/beef/,https://www.sosd.org.sg/wp-content/uploads/2025/11/Beef-e1762480911658-300x220.jpg
@@ -125,12 +127,12 @@ Marsh,M,1-Jan-2017,N,N,,Y,,,Y,,,SOSD,https://www.sosd.org.sg/marsh/,https://www.
 Max,M,1-Jan-2012,N,,,,,,N,,,SOSD,https://www.sosd.org.sg/max/,https://www.sosd.org.sg/wp-content/uploads/2026/04/Max-e1776243410703-300x195.jpg
 MilkTea,F,9-Sep-2018,Y,,,Y,,,Y,,N,SOSD,https://www.sosd.org.sg/milktea/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Milktea-e1761575580261-300x186.jpg
 Milo,M,5-Oct-2013,N,N,,Y,,,N,,,SOSD,https://www.sosd.org.sg/milo/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Milo-e1761579375511-300x197.jpg
-Mira,F,23-Apr-2022,Y,Y,,Y,,Y,Y,,,SOSD,https://www.sosd.org.sg/mira/,https://www.sosd.org.sg/wp-content/uploads/2026/05/Mira-1-rotated-e1779074751644-300x192.jpg
 Moonbeam,M,20-Dec-2025,Y,,,,,Y,N,Y,,SOSD,https://www.sosd.org.sg/moonbeam/,https://www.sosd.org.sg/wp-content/uploads/2026/03/Moonbeam-e1779039227792-300x190.jpg
 Nightshade,M,23-Dec-2025,N,,,,,,N,,,SOSD,https://www.sosd.org.sg/nightshade/,https://www.sosd.org.sg/wp-content/uploads/2026/02/Nightshade-e1772202263394.jpg
 Ollie,M,1-Dec-2016,N,N,Y,Y,,,N,,N,SOSD,https://www.sosd.org.sg/ollie/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Ollie-e1761577355234-300x211.jpg
 Onigiri,M,31-Oct-2018,Y,N,,Y,,,Y,,,SOSD,https://www.sosd.org.sg/onigiri/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Onigiri-e1761579730178-300x194.jpg
 Orrie,M,10-Nov-2019,Y,N,N,N,,,N,,,SOSD,https://www.sosd.org.sg/dogs-profile-orrie/,https://www.sosd.org.sg/wp-content/uploads/2025/02/Orrie-e1732540038744-300x193.jpg
+Pai Pai,F,1-Jan-2011,Y,Y,,Y,,,N,,,SOSD,https://www.sosd.org.sg/pai-pai/,https://www.sosd.org.sg/wp-content/uploads/2026/08/Paipai-e1787133965503-300x190.jpg
 Paintbrush,M,1-Feb-2015,N,,,,,,N,,,SOSD,https://www.sosd.org.sg/paintbrush/,https://www.sosd.org.sg/wp-content/uploads/2026/04/Paintbrush-e1776240383972-300x176.jpg
 Presley,M,1-Dec-2017,Y,,,,,Y,Y,,Y,SOSD,https://www.sosd.org.sg/presley/,https://www.sosd.org.sg/wp-content/uploads/2026/01/Presley-e1768834653946-300x190.jpg
 River,M,8-Jun-2022,Y,N,,Y,,,N,,,SOSD,https://www.sosd.org.sg/river/,https://www.sosd.org.sg/wp-content/uploads/2025/10/River-e1790218099536-300x186.jpg
